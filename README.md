@@ -14,6 +14,7 @@
 [![Tier](https://img.shields.io/badge/CURRICULUM-POST--AI_NATIVE-cyan?style=for-the-badge&logo=openai)](./4_SISTEM/OZET.md)
 [![Protokol](https://img.shields.io/badge/PROTOKOL-ZERO-black?style=for-the-badge&logo=hack-the-box)](./1_DOKTRIN/MIMARI_YAPI.md)
 [![Durum](https://img.shields.io/badge/SYSTEM-GOD__MODE-gold?style=for-the-badge&logo=godot-engine)](./4_SISTEM/OZET.md)
+[![Evrim](https://img.shields.io/badge/EVOLUTION-PERPETUAL-orange?style=for-the-badge&logo=git)](./4_SISTEM/ANA_LOG.md)
 
 ---
 
