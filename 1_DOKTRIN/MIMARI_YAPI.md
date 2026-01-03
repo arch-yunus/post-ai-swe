@@ -1,12 +1,11 @@
-# 🛰️ STRATEJİK VERİ PROTOKOLÜ: DEPO MİMARİSİ (ARCHITECTURE)
+# 🛰️ STRATEJİK VERİ PROTOKOLÜ:# 🛰️ POST-AI MİMARİ YAPILANDIRMASI (SYSTEM ARCHITECTURE)
 
-> **"Kaos, sadece düzenin henüz anlaşılmamış halidir. Biz kaosu değil, sistemi inşa ediyoruz."**
+> **"Kaos, sadece anlaşılmamış bir düzendir. Bizim işimiz bu düzeni kurmaktır."**
 
 Bu döküman; **KTÜ Yapay Zeka Sonrası Yazılım Mühendisliği Merkezi**'nin sinir sistemini, veri akış protokollerini ve hiyerarşik düzenini tanımlar. Bu yapı, rastgele açılmış klasörlerden ibaret değildir; her bir dizin, mühendisin zihnindeki bir "yetenek bloğunu" temsil eden canlı bir organdır.
 
 ---
 
-## 🏛️ SİSTEM ÇEKİRDEĞİ (SYSTEM KERNEL)
 
 Aşağıdaki şema, deponun (ve zihninizin) nasıl organize edilmesi gerektiğini gösteren ana haritadır:
 
