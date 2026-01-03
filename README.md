@@ -46,6 +46,33 @@
 ## 🗺️ STRATEJİK İÇERİK HARİTASI (CONTENT HUB)
 **Depo sistemi, 6 stratejik katman üzerine inşa edilmiştir. Her katman, mühendislik yolculuğunuzun farklı bir evresini temsil eder:**
 
+---
+
+### 🧬 YENİ DÜNYA DÜZENİ: BECERİ DÖNÜŞÜMÜ (SKILL SHIFT)
+
+Yapay Zeka devrimi, oyunun kurallarını tamamen değiştirdi. Dünün "Senior" yetkinlikleri, bugünün "Basic" gereksinimleri oldu. İşte hayatta kalmak için geçirmeniz gereken mutasyon:
+
+| ALAN | 💀 ESKİ DÜNYA (Legacy) | 🤖 POST-AI DÜNYASI (Next-Gen) |
+|:---|:---|:---|
+| **Kodlama** | Syntax ezberlemek, "from scratch" yazmak. | Mimari dizayn etmek, AI ile "Code Review" yapmak. |
+| **Hata Çözme** | StackOverflow'da saatlerce aramak. | AI'ya bağlamı (context) verip saniyede çözüm üretmek. |
+| **Öğrenme** | Kalın kitaplar, 40 saatlik video kursları. | "Just-in-Time" öğrenme, mikro-dokümantasyonlar. |
+| **Değer** | "Ben bu kodu yazdım." | "Ben bu problemi çözdüm ve sistemi scale ettim." |
+| **Hız** | 1 Özellik / Hafta | 1 Özellik / Saat |
+
+---
+
+### 🚀 HAREKATA GEÇME PROTOKOLÜ (MOBILIZATION)
+
+Bu depoya yeni düşen bir asker için acil eylem planı:
+
+1.  **Zihniyeti Güncelle:** [Manifestoyu](./1_DOKTRIN/_MANIFESTO/README.md) oku ve eski inançlarını formatla.
+2.  **Silahlan:** [Savaş İstasyonu](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md) rehberine göre bilgisayarını kur.
+3.  **Cephe Seç:** [Yol Haritaları](./3_KARIYER/YOL_HARITALARI/README.md) bölümünden hedefini belirle.
+4.  **Ateşle:** İlk kodunu değil, ilk *sistemini* tasarla.
+
+---
+
 ### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Ustalık ve Müfredat Katmanı
 KTÜ Yazılım Mühendisliği resmi müfredatının, Yapay Zeka Sonrası Çağ'ın (Post-AI Era) acımasız gereksinimlerine göre yeniden derlenmiş, optimize edilmiş ve liyakatle "hacklenmiş" en üstün **Global Standart Doktrinidir**.
 
