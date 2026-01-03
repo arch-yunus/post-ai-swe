@@ -120,7 +120,51 @@ graph LR
 
 ---
 
-## 👤 STRATEJİK MİMAR (THE ARCHITECT)
+## � GELECEK OPERASYONLARI (FUTURE OPERATIONS)
+
+Bu depo, statik bir yapı değil; yaşayan ve evrilen bir organizmadır.
+
+```mermaid
+timeline
+    title STRATEJİK YOL HARİTASI
+    2024 - 2025 : TEMEL İNŞA (Foundation)
+                : Mimari Doktrinlerin Kurulması
+                : Müfredat Hackleme Operasyonu
+    2026 : YÜKSELİŞ (Ascension)
+         : Q1 - Derin Yapay Zeka Entegrasyonu
+         : Q3 - Cloud Native Sistemlere Geçiş
+    2027 : HAKİMİYET (Dominance)
+         : Global Startup Ekosistemine Sızma
+         : "Tekillik" Seviyesine Ulaşım
+```
+
+---
+
+## 💻 SAVAŞ İSTASYONU (BATTLESTATION CONFIG)
+
+Bir mühendisin kalitesi, kullandığı araçlara hükmetme seviyesiyle ölçülür. İşte bu karargahın önerdiği "Elite" donanım ve yazılım konfigürasyonu:
+
+| TÜR | TAVSİYE EDİLEN (RECOMMENDED) | NOTLAR |
+|:---|:---|:---|
+| **OS** | **Linux / WSL2** (Ubuntu) | Windows sadece bir "Bootloader"dır. Asıl iş Linux'ta döner. |
+| **IDE** | **VS Code** (Heavily Modded) | Vim keybindings ile hızlandırılmış, AI extensionları ile donatılmış. |
+| **FONT** | **Fira Code** / **JetBrains Mono** | Ligature desteği olmayan font, odak kaybıdır. |
+| **BROWSER** | **Arc** / **Brave** | Dikkat dağıtmayan, gizlilik odaklı tarayıcılar. |
+
+---
+
+## 🌐 KÜRESEL İTTİFAK (GLOBAL ALLIANCE)
+
+Yalnız kurtlar hızlı koşar, ama sürüler avı düşürür. Bu doktrini benimseyen diğer vizyonerlerle bağlantı kur.
+
+- **[LinkedIn Operasyon Ağı](https://www.linkedin.com/in/bahattinyunus/)**: Profesyonel stratejiler ve sektör analizleri.
+- **[GitHub Karargahı](https://github.com/bahattinyunus)**: Açık kaynak kodlu mühimmat deposu.
+
+> **"Ağınız (Network), net değerinizdir (Net Worth)."**
+
+---
+
+## �👤 STRATEJİK MİMAR (THE ARCHITECT)
 
 > **"Kod sadece bir araçtır, asıl eser mimaridir."**
 
