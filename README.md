@@ -122,7 +122,7 @@ graph LR
 
 ## � GELECEK OPERASYONLARI (FUTURE OPERATIONS)
 
-Bu depo, statik bir yapı değil; yaşayan ve evrilen bir organizmadır.
+Bu depo, durağan bir dosya sistemi değil; teknolojiyle birlikte nefes alan, her "commit" ile evrilen ve kendini sürekli güncelleyen **sibernetik bir organizmadır**. Buradaki her satır kod, büyük bir stratejik planın parçasıdır ve nihai hedefi, sadece günümüzü yakalamak değil, geleceği inşa etmektir.
 
 ```mermaid
 timeline
@@ -142,25 +142,25 @@ timeline
 
 ## 💻 SAVAŞ İSTASYONU (BATTLESTATION CONFIG)
 
-Bir mühendisin kalitesi, kullandığı araçlara hükmetme seviyesiyle ölçülür. İşte bu karargahın önerdiği "Elite" donanım ve yazılım konfigürasyonu:
+Bir mühendisin kalitesi, üretim yaparken kullandığı araçlara ne kadar hakim olduğuyla doğrudan orantılıdır. Sıradan araçlarla ustalık eseri üretilemez. İşte bu stratejik karargahın; hız, verimlilik ve ergonomi odaklı olarak optimize ettiği "Elite Class" donanım ve yazılım konfigürasyonu:
 
 | TÜR | TAVSİYE EDİLEN (RECOMMENDED) | NOTLAR |
 |:---|:---|:---|
-| **OS** | **Linux / WSL2** (Ubuntu) | Windows sadece bir "Bootloader"dır. Asıl iş Linux'ta döner. |
-| **IDE** | **VS Code** (Heavily Modded) | Vim keybindings ile hızlandırılmış, AI extensionları ile donatılmış. |
-| **FONT** | **Fira Code** / **JetBrains Mono** | Ligature desteği olmayan font, odak kaybıdır. |
-| **BROWSER** | **Arc** / **Brave** | Dikkat dağıtmayan, gizlilik odaklı tarayıcılar. |
+| **OS** | **Linux / WSL2** (Ubuntu) | Windows, profesyonel geliştirme için sadece bir "Bootloader" görevi görür. Gerçek mühendislik, Linux kernelinin gücü üzerinde, terminalin sınırsız özgürlüğünde gerçekleşir. |
+| **IDE** | **VS Code** (Heavily Modded) | "Vim" tuş takımlarıyla (Keybindings) kas hafızasında kodlanmış, AI destekli eklentilerle (Extensions) donatılmış, klavyeden el kaldırmadan yönetilen bir komuta paneli. |
+| **FONT** | **Fira Code** / **JetBrains Mono** | Kodun okunabilirliği, zihinsel yükü azaltır. Ligature (bitişik harf) desteği olmayan bir font kullanmak, odak kaybına davetiye çıkarmaktır. |
+| **BROWSER** | **Arc** / **Brave** | İnternet, bir dikkat dağıtıcı değil, bir bilgi madenidir. Reklamlardan arındırılmış, gizlilik odaklı ve iş akışına göre özelleştirilmiş tarayıcılar şarttır. |
 
 ---
 
 ## 🌐 KÜRESEL İTTİFAK (GLOBAL ALLIANCE)
 
-Yalnız kurtlar hızlı koşar, ama sürüler avı düşürür. Bu doktrini benimseyen diğer vizyonerlerle bağlantı kur.
+Teknoloji dünyasında "Yalnız Kurt" (Lone wolf) efsanesi ölmüştür; artık "Sürü Zekası" (Swarm Intelligence) devri başlamıştır. Yalnız başınıza hızlı koşabilirsiniz, ancak büyük problemleri avlamak için güçlü bir ittifaka ihtiyacınız vardır. Bu doktrini benimseyen, vizyoner ve tutkulu diğer mühendislerle bağlantı kurun.
 
 - **[LinkedIn Operasyon Ağı](https://www.linkedin.com/in/bahattinyunus/)**: Profesyonel stratejiler ve sektör analizleri.
 - **[GitHub Karargahı](https://github.com/bahattinyunus)**: Açık kaynak kodlu mühimmat deposu.
 
-> **"Ağınız (Network), net değerinizdir (Net Worth)."**
+> **"Sizin Ağınız (Network), Sizin Net Değerinizdir (Net Worth). Kimi tanıdığınız, ne bildiğiniz kadar önemlidir."**
 
 ---
 
