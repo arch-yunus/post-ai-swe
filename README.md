@@ -96,10 +96,7 @@ Kişisel gelişimin soyut ve ölçülemez olduğu yanılgısını yıkan; her ba
 - [⚔️ Cephanelik (Kaynak Merkezi)](./4_SISTEM/KAYNAK_MERKEZI.md) | [🛡️ Güvenlik Protokolleri](./4_SISTEM/_PROTOKOLLER/)
 
 ### 📂 [5_ARSIV](./5_ARSIV/) | İstihbarat Arşivi ve Analiz (Archives & Intelligence)
-Ana müfredat dışındaki "Yasaklı Bilgiler", "Sınıflandırılmış Dosyalar" ve ileri seviye akademik analizlerin saklandığı entelektüel "Kara Kutu"dur.
-
-Mevcut hantal üniversite sistemine yönelik yapıcı ancak sert eleştiriler, geleceğin teknolojilerine dair cesur ve fütüristik öngörüler, ve ana akım mühendislik medyasında asla bulamayacağınız derinlemesine, filtresiz teknik makaleler burada muhafaza edilir. Burası, statükoya meydan okuyan fikirlerin sığınağıdır.
-- [🚩 Radikal Sistem Eleştirisi](./5_ARSIV/SISTEM_ELESTIRISI.md) | [📝 Stratejik Makaleler](./5_ARSIV/medium.md)
+Klasikleşmiş ve tamamlanmış projelerin, eski dönem ders notlarının ve referans materyallerinin saklandığı bölümdür. Burası, geçmişin tecrübesinin geleceğe ışık tuttuğu bir kütüphane işlevi görür.
 
 ---
 
@@ -110,93 +107,70 @@ Mevcut hantal üniversite sistemine yönelik yapıcı ancak sert eleştiriler, g
 ```mermaid
 graph LR
     subgraph "GIRIS_AKISI (Ham Veri)"
-        A["KTÜ Müfredatı (2615)"] -- "Analog Veri" --> B{TEKILLIK_CEKIRDEGI}
+        A["KTÜ Müfredatı"] -- "Analog Veri" --> B{KOLEKTİF_AKIL_ÇEKİRDEĞİ}
     end
 
     subgraph "ISLEME_BIRIMI (Dönüşüm)"
-        B -- "AI Çarpanı" --> C["Yapay Zeka Sonrası Mühendislik"]
-        B -- "Disiplin Protokolü" --> D["Ustalık Mantığı"]
-        B -- "Siyah Kuğu Dayanıklılığı" --> E["Stratejik Derinlik"]
+        B -- "Açık Kaynak Katkısı" --> C["Sürekli Müfredat"]
+        B -- "Ortak Tecrübe" --> D["Living Docs"]
+        B -- "Evrimsel Baskı" --> E["Adaptive Learning"]
     end
 
     subgraph "CIKIS_SISTEMI (Yükseliş)"
-        C --> F["🌌 TEKILLIK_MÜHENDİSİ"]
+        C --> F["🌌 GLOBAL_MÜHENDİS"]
         D --> F
         E --> F
-        F -- "Elit Etki" --> G["🚀 Milli Teknoloji Egemenliği"]
+        F -- "Topluluk Gücü" --> G["🚀 Sürdürülebilir İnovasyon"]
     end
 
-    style B fill:#ff0000,stroke:#fff,stroke-width:5px,color:#fff
-    style G fill:#000,stroke:#FFD700,stroke-width:6px,color:#FFD700
+    style B fill:#ff9900,stroke:#fff,stroke-width:5px,color:#000
+    style G fill:#00cc00,stroke:#fff,stroke-width:6px,color:#fff
     style F fill:#000080,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 ---
 
-## 🛡️ STRATEJİK DOKTRİNLER (DOKTRİNLER)
+## 🛡️ TOPLULUK MANİFESTOSU (COMMUNITY DOCTRINE)
 
 > [!CAUTION]
-> ### ⚔️ KURAL 01: DİPLOMA SADECE BİR KAĞIT PARÇASIDIR
-> **YENİ MÜFREDATIN İLK MADDESİ:** Üniversite diploması, nihai bir gaye veya başarının kanıtı değil; bu uzun ve zorlu liyakat yolculuğunda toplanan sıradan, bürokratik ganimetlerden sadece biridir. Sektör artık hangi okuldan mezun olduğunuza değil, hangi problemleri çözebildiğinize bakıyor. Gerçek ve asıl potansiyeliniz; transkriptinizdeki not ortalamanızla (GPA) değil; GitHub katkı grafiğinizdeki yeşilliklerle, Stack Overflow'daki itibarınızla ve inşa ettiğiniz çalışan sistemlerle ölçülür. Hedefimiz mezun olup bir diploma almak değil; sektörün kronik "Bug"larını düzeltecek seviyede **MUTLAK HAKİMİYET** kurmaktır.
+> ### ⚔️ KURAL 01: OTORİTE KİMSE DEĞİLDİR, HERKESİR (NO MASTERS)
+> Bilgi hiyerarşisi yıkılmıştır. En iyi fikri kimin söylediğinin önemi yoktur; Junior bir geliştirici, Senior bir mimardan daha iyi bir çözüm öneriyorsa, kod o şekilde güncellenir. "Ben bilirim" değil, "Biz çözeriz" ilkesi esastır. Egonuzu kapıda bırakın, PR'ınızı atın.
 
 > [!IMPORTANT]
-> ### 🤖 KURAL 02: YAPAY ZEKA (AI) YENİ İŞ TAKIMINIZDIR
-> **YENİ MÜFREDATIN İKİNCİ MADDESİ:** Yapay zeka, işinizi elinizden alacak bir düşman veya kaçınılması gereken bir hile değildir; aksine, zihninizin işlem kapasitesini 100 katına çıkaran, 20 yıllık "Senior Engineer" tecrübesini parmak uçlarınıza getiren dijital bir ortaktır. Geleneksel eğitim sistemi onu yasaklayabilir veya görmezden gelebilir; ama biz bu "Post-AI" müfredatta, yazdığımız her satır kodda, tasarladığımız her sistemde **YARATICI YIKIM** (Creative Destruction) ve radikal inovasyon için AI'yı merkeze koyuyoruz. Geleceğin denklemi basittir: AI kullanmayan mühendis yok olacak, AI'yı yöneten ve yönlendiren mühendis dünyayı yönetecek.
+> ### 🤖 KURAL 02: ADAPTASYON EN BÜYÜK YETENEKTİR (ADAPT OR DIE)
+> Bugün kullandığımız stack yarın ölebilir. Bu repo, belirli bir teknolojiye fanatikçe bağlılık duymaz. Teknoloji değiştiğinde, repo da değişir. Değişimden korkan değil, değişimi bizzat başlatan öncüler olmalıyız.
 
 ---
 
-## � GELECEK OPERASYONLARI (FUTURE OPERATIONS)
-
-Bu müfredat tasarımı (Curriculum Design), durağan, güncelliğini yitirmiş ve tozlu raflarda bekleyen bir akademi PDF'i değildir; teknolojiyle birlikte nefes alan, her "commit" ile organik olarak evrilen ve kendini sürekli güncelleyen **canlı, sibernetik bir eğitim algoritmasıdır**. Buradaki her satır, global yazılım endüstrisinin geleceğini şekillendirecek mühendisler için, bizzat o geleceğin içinden, bizzat o "Tekillik" noktasından yazılmış stratejik bir çağrıdır. Geleceği tahmin etmenin en iyi yolu; onu bugünden kodlamaktır.
-
-```mermaid
-timeline
-    title STRATEJİK YOL HARİTASI
-    2024 - 2025 : TEMEL İNŞA (Foundation)
-                : Mimari Doktrinlerin Kurulması
-                : Müfredat Hackleme Operasyonu
-    2026 : YÜKSELİŞ (Ascension)
-         : Q1 - Derin Yapay Zeka Entegrasyonu
-         : Q3 - Cloud Native Sistemlere Geçiş
-    2027 : HAKİMİYET (Dominance)
-         : Global Startup Ekosistemine Sızma
-         : "Tekillik" Seviyesine Ulaşım
-```
-
----
-
-## 💻 SAVAŞ İSTASYONU (BATTLESTATION CONFIG)
-
-Bir mühendisin mesleki kalitesi, üretim gücü ve sahadaki etkinliği; üretim yaparken kullandığı dijital araçlara (Tools of Trade) ne kadar hakim olduğuyla doğrudan ölçülür. Sıradan, optimize edilmemiş araçlarla, olağanüstü ve kusursuz sonuçlar elde edilemez. İşte bu stratejik komuta merkezinin; maksimum hız, kesintisiz odaklanma (Deep Work) ve üstün ergonomi için optimize ettiği; savaş alanında test edilmiş ve onaylanmış **"Elite Class"** donanım ve yazılım konfigürasyonu:
+## 💻 SAVAŞ İSTASYONU (BATTLESTATION COMM CONFIG)
 
 | TÜR | TAVSİYE EDİLEN (RECOMMENDED) | NOTLAR |
 |:---|:---|:---|
-| **OS** | **Linux / WSL2** (Ubuntu) | Windows, profesyonel geliştirme için sadece bir "Bootloader" görevi görür. Gerçek mühendislik, Linux kernelinin gücü üzerinde, terminalin sınırsız özgürlüğünde gerçekleşir. |
-| **IDE** | **VS Code** (Heavily Modded) | "Vim" tuş takımlarıyla (Keybindings) kas hafızasında kodlanmış, AI destekli eklentilerle (Extensions) donatılmış, klavyeden el kaldırmadan yönetilen bir komuta paneli. |
-| **FONT** | **Fira Code** / **JetBrains Mono** | Kodun okunabilirliği, zihinsel yükü azaltır. Ligature (bitişik harf) desteği olmayan bir font kullanmak, odak kaybına davetiye çıkarmaktır. |
-| **BROWSER** | **Arc** / **Brave** | İnternet, bir dikkat dağıtıcı değil, bir bilgi madenidir. Reklamlardan arındırılmış, gizlilik odaklı ve iş akışına göre özelleştirilmiş tarayıcılar şarttır. |
+| **OS** | **Linux / WSL2** | Özgür yazılım, özgür zihin. |
+| **IDE** | **VS Code / Cursor** | AI destekli kodlama için optimize edilmiş ortamlar. |
+| **BROWSER** | **Arc / Brave** | Odak ve performans. |
 
 ---
 
 ## 🌐 KÜRESEL İTTİFAK (GLOBAL ALLIANCE)
 
-Teknoloji dünyasında "Yalnız Kurt" (Lone Wolf) efsanesi çoktan ölmüştür; artık **"Sürü Zekası" (Swarm Intelligence)** devri başlamıştır. Karmaşık problemleri çözmek, tek bir zihnin kapasitesini aşabilir. Yalnız başınıza hızlı koşabilirsiniz, ancak büyük problemleri avlamak, imparatorluklar kurmak ve dünyayı değiştirmek için arkanızı kollayacak güçlü, sadık ve yetenekli bir ittifaka ihtiyacınız vardır. Bu "Post-AI" doktrinini benimseyen, vizyoner, tutkulu ve elit diğer mühendislerle bağlantı kurun.
+Teknolojiyi yalnız başına takip edemezsin. Bu canlı organizmaya katıl, beslen ve besle.
 
-- **[LinkedIn Operasyon Ağı](https://www.linkedin.com/in/bahattinyunus/)**: Profesyonel stratejiler ve sektör analizleri.
-- **[GitHub Karargahı](https://github.com/bahattinyunus)**: Açık kaynak kodlu mühimmat deposu.
+- **[LinkedIn Operasyon Ağı](https://www.linkedin.com/in/bahattinyunus/)**: Profesyonel stratejiler.
+- **[GitHub Karargahı](https://github.com/bahattinyunus)**: Kodun kaynağı.
 
-> **"Sizin Ağınız (Network), Sizin Net Değerinizdir (Net Worth). Kimi tanıdığınız, ne bildiğiniz kadar önemlidir."**
+> **"Sizin Ağınız (Network), Sizin Net Değerinizdir (Net Worth)."**
 
 ---
 
-## �👤 STRATEJİK MİMAR (THE ARCHITECT)
+## 🏗️ STRATEJİK MİMAR (INITIATOR)
 
-> **"Kod sadece bir araçtır, asıl eser mimaridir."**
+> **"Ben sadece ilk taşı koydum. Kaleyi siz inşa edeceksiniz."**
 
-**[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**  
-*IT Architect & Strategic Systems Engineer*
+**[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**
+*IT Architect & Community Initiator*
 
-Bu stratejik komuta merkezi; **KTÜ Of Teknoloji Fakültesi Yazılım Mühendisliği** bünyesinde eğitim gören vizyoner bir zihin tarafından inşa edilmiştir. Bu depo ve içerdiği doktrinler, sıradan bir öğrencilik serüveni değil; geleceğin dijital ekosistemlerini şekillendirecek bir **IT Mimarının** vizyon manifestosudur.
+Bu proje, **KTÜ Of Teknoloji Fakültesi Yazılım Mühendisliği** ekosisteminden doğan ve dünyaya açılan bir inisiyatiftir.
 
 <div align="center">
 
@@ -207,28 +181,10 @@ Bu stratejik komuta merkezi; **KTÜ Of Teknoloji Fakültesi Yazılım Mühendisl
 
 ---
 
-## 📡 TERMİNAL LOGLARI (MASTER FEED)
-
-```bash
-# SYSTEM_INIT_SEQUENCE: v4.2.0-ALFA
-# AUTH_USER: ROOT_ACCESS (Likayet Seviyesi: ONAYLI)
-
-[00:00:01] [KERNEL]  : Çekirdek Sistemler Yükleniyor... [OK]
-[00:00:02] [NETWORK] : Trabzon/Of Bağlantı Noktası Aktif. [SECURE]
-[00:00:05] [DATABASE]: Müfredat verileri 'STRATEJİK_BİLGİ'ye dönüştürülüyor...
-[00:01:12] [WARNING] : Sisteme yetkisiz (Ezberci) giriş denemesi engellendi.
-[00:01:45] [AI_CORE] : Nöral Ağlar Senkronize Edildi. (Kapasite: %100)
-[00:02:00] [MISSION] : "Milli Teknoloji Hamlesi" protokolü devrede.
-
->>> READY FOR COMMAND_
-```
-
----
-
 <div align="center">
   
-`İLETİM_SEVİYESİ: TEKİLLİK`  
-`ARŞİV_SEVİYESİ: ÜST_MOD_ARTI`  
-`KOORDİNATLAR: @BAHATTINYUNUS // STRATEJİK_VARLIK`
+`DURUM: EVRİMSEL_SÜREÇ`  
+`KATKI: AÇIK`  
+`VİZYON: SONSUZ`
   
 </div>
