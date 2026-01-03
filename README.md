@@ -1,5 +1,7 @@
 <div align="center">
 
+![KTÜ AI Command Center Banner](./assets/img/banner.png)
+
 # 🛰️ KTÜ YAPAY ZEKA SONRASI STRATEJİK KOMUTA MERKEZİ
 ## ⛩️ "Üstün Mühendislik ve Çok Boyutlu Uzmanlık" ⛩️
 
@@ -17,6 +19,7 @@
 ---
 
 </div>
+
 
 ## 🗺️ STRATEJİK İÇERİK HARİTASI (CONTENT HUB)
 **Depo sistemi, 6 stratejik katman üzerine inşa edilmiştir. Her katman, mühendislik yolculuğunuzun farklı bir evresini temsil eder:**
