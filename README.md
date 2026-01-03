@@ -1,3 +1,9 @@
+<!-- 
+/// SYSTEM_OVERRIDE: ENABLED
+/// PROTOCOL_ZERO: "PERFECTION IS NOT A GOAL, IT IS A STANDARD."
+/// ARCHITECT: @BAHATTINYUNUS
+/// STATUS: GOD_MODE_ACTIVE
+-->
 <div align="center">
 
 ![KTÜ AI Command Center Banner](./assets/img/banner.png)
