@@ -136,7 +136,7 @@ graph LR
 **[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**  
 *IT Architect & Strategic Systems Engineer*
 
-Trabzon'un Of ilçesinde konuşlu akademik üssünden, küresel yazılım mühendisliği standartlarını yeniden tanımlayan operasyonlar yürütmektedir. Bu depo ve içerdiği doktrinler, sıradan bir öğrencilik serüveni değil; geleceğin dijital ekosistemlerini şekillendirecek bir **IT Mimarının** vizyon manifestosudur.
+Bu stratejik komuta merkezi; **KTÜ Of Teknoloji Fakültesi Yazılım Mühendisliği** bünyesinde eğitim gören vizyoner bir zihin tarafından inşa edilmiştir. Bu depo ve içerdiği doktrinler, sıradan bir öğrencilik serüveni değil; geleceğin dijital ekosistemlerini şekillendirecek bir **IT Mimarının** vizyon manifestosudur.
 
 <div align="center">
 
