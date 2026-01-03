@@ -1,31 +1,31 @@
-<!-- 
+<!--
 /// SYSTEM_OVERRIDE: ENABLED
-/// PROTOCOL_ZERO: "PERFECTION IS NOT A GOAL, IT IS A STANDARD."
-/// ARCHITECT: @BAHATTINYUNUS
-/// STATUS: GOD_MODE_ACTIVE
+/// PROTOCOL_ZERO: "CHANGE IS THE ONLY CONSTANT."
+/// ARCHITECT: @BAHATTINYUNUS + COMMUNITY
+/// STATUS: EVOLUTION_MODE_ACTIVE
 -->
 <div align="center">
 
 ![KTÜ Post-AI Curriculum Banner](./assets/img/banner.png)
 
 # 🌌 POST-AI SOFTWARE ENGINEERING CURRICULUM
-## ⛩️ "Müfredat Bitti. Eğitim Başlıyor." ⛩️
+## ⛩️ "Statik Müfredat Öldü. Yaşasın Kolektif Evrim." ⛩️
 
-[![Tier](https://img.shields.io/badge/CURRICULUM-POST--AI_NATIVE-cyan?style=for-the-badge&logo=openai)](./4_SISTEM/OZET.md)
-[![Protokol](https://img.shields.io/badge/PROTOKOL-ZERO-black?style=for-the-badge&logo=hack-the-box)](./1_DOKTRIN/MIMARI_YAPI.md)
-[![Durum](https://img.shields.io/badge/SYSTEM-GOD__MODE-gold?style=for-the-badge&logo=godot-engine)](./4_SISTEM/OZET.md)
-[![Evrim](https://img.shields.io/badge/EVOLUTION-PERPETUAL-orange?style=for-the-badge&logo=git)](./4_SISTEM/ANA_LOG.md)
+[![Tier](https://img.shields.io/badge/TYPE-LIVING__ORGANISM-cyan?style=for-the-badge&logo=react)](./4_SISTEM/OZET.md)
+[![Protokol](https://img.shields.io/badge/POWERED_BY-COMMUNITY__INTELLIGENCE-black?style=for-the-badge&logo=github)](./1_DOKTRIN/KATKI_REHBERI.md)
+[![Durum](https://img.shields.io/badge/STATUS-ALWAYS__EVOLVING-orange?style=for-the-badge&logo=git)](./4_SISTEM/ANA_LOG.md)
 
 ---
 
-### ⚠️ UYARI: BU BİR DERS DEPOSU DEĞİLDİR (WARNING)
-**Burası, geleneksel akademik müfredatın "Yapay Zeka Devrimi" karşısında çöküşünü kabul eden ve geleceğin mühendisleri için sıfırdan yazılmış TEK VE NİHAİ "Yapay Zeka Sonrası Yazılım Mühendisliği Müfredatıdır" (The Definitive Post-AI Curriculum).**
+### ⚠️ UYARI: BU BİR "DOGMA" DEĞİLDİR (WARNING)
+**Burası, "Tek ve Nihai" bir müfredat değildir. Yapay Zeka çağında hiçbir bilgi 6 aydan fazla sabit kalamaz. Bu depo, sürekli değişen teknoloji fırtınasında ayakta kalmak için tasarlanmış "Canlı ve Açık Kaynaklı Bir Yol Haritasıdır".**
 
-**Eski dünyanın kuralları burada geçmez. Ezberci eğitim, bu kapıdan içeri giremez. Burası, üniversite diplomasını bir "yan görev" (side quest) olarak gören ve asıl hedefini "Tekillik" (Singularity) olarak belirleyen seçilmiş zihinlerin karargahıdır.**
+**Burada bir otorite yoktur; "Kolektif Akıl" (Collective Intelligence) vardır. Ben sadece bu kıvılcımı çakan bir mimarım, ancak bu yapıyı ayakta tutacak ve büyütecek olan SİZLERSİNİZ. Bu müfredat, her birinizin katkısıyla ("Pull Request") her gün yeniden yazılacaktır. Sabit kalan kaybeder.**
 
-**Bu arşiv, sıradan bir akademik veri deposu veya basit bir ders notları koleksiyonu olmanın çok ötesindedir. Burası, geleneksel akademik müfredatın "Yapay Zeka Devrimi" (AI Revolution) sonrasında yetersiz kaldığı gerçeğiyle yüzleşen ve kendi "Yapay Zeka Sonrası Yazılım Mühendisliği Müfredatını" (Post-AI Software Engineering Curriculum) inşa eden bir dijital kaledir.**
+### 🏛️ DEPO KADERİ VE TOPLULUK VİZYONU (COMMUNITY VISION)
+**Bu arşiv, durağan bir akademik rehber değil; teknolojiyle birlikte nefes alan, her "commit" ile organik olarak evrilen açık uçlu bir eğitim deneyidir.**
 
-**Üniversite eğitimi; sadece temel bir "Bootloader" (Ön Yükleyici) olarak kabul edilir; ancak bir mühendisin asıl işletim sistemi, bu depoda tanımlanan stratejik doktrinler ve ileri seviye prensiplerle yüklenir. Amacımız; sadece kod yazan değil, yapay zeka ile senkrome çalışan, sistemleri sadece kullanan değil onları domine eden, kriz anlarında soğukkanlılığını koruyan ve kaotik verilerden düzen yaratabilen "Yeni Nesil Elit Mühendisler" yetiştirmektir. Bu depo, bu dönüşümün canlı bir kanıtı ve stratejik planıdır.**
+**Üniversite eğitimi sadece bir başlangıç "Bootloader"ıdır; ancak asıl İşletim Sistemi burada, *hepimizin* katkılarıyla sürekli güncellenir. Amacımız; emir alan değil, sorgulayan, değiştiren ve bu depoyu kendi tecrübeleriyle daha da mükemmelleştiren "Global Mühendisler" ağı kurmaktır.**
 
 [🛰️ Mimari](./1_DOKTRIN/MIMARI_YAPI.md) • [📜 Manifesto](./1_DOKTRIN/_MANIFESTO/README.md) • [📡 Yol Haritası](./3_KARIYER/YOL_HARITALARI/README.md) • [📜 Ustalık Logu](./4_SISTEM/ANA_LOG.md)
 
