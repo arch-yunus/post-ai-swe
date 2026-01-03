@@ -117,6 +117,24 @@ graph LR
 
 ---
 
+## 👤 STRATEJİK MİMAR (THE ARCHITECT)
+
+> **"Kod sadece bir araçtır, asıl eser mimaridir."**
+
+**[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**  
+*IT Architect & Strategic Systems Engineer*
+
+Trabzon'un Of ilçesinde konuşlu akademik üssünden, küresel yazılım mühendisliği standartlarını yeniden tanımlayan operasyonlar yürütmektedir. Bu depo ve içerdiği doktrinler, sıradan bir öğrencilik serüveni değil; geleceğin dijital ekosistemlerini şekillendirecek bir **IT Mimarının** vizyon manifestosudur.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/)
+[![GitHub](https://img.shields.io/badge/GitHub-Karargah-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus)
+
+</div>
+
+---
+
 ## 📡 TERMİNAL LOGLARI (MASTER FEED)
 
 ```bash
