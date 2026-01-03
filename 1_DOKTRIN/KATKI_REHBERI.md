@@ -1,29 +1,45 @@
-# 🦅 Liyakat Paylaşımı: Katkı Disiplini (KATKI_REHBERI)
+# 🦅 OPERASYON PROTOKOLÜ: KATKI VE KATILIM (CONTRIBUTION)
 
-Bu depo, diplomanın ötesini hedefleyen mühendislerin ortak liyakat kalesidir. Katkılarınız, bu disiplini yaymak için en güçlü silahtır.
+> **"Kalite, bir eylem değil, bir alışkanlıktır. Mükemmellik ise bir standarttır."**
 
----
-
-## 🚀 Nasıl Katkı Sağlarsın?
-
-### 1. Disiplini Belgele (Eğitim Modülleri)
-Derslerde anlatılanların ötesine geçen, gerçek dünya mimarilerini ve AI entegrasyonlarını içeren notlarını `Teorik_Notlar/` klasörüne ekle. 
-
-### 2. Uygulama ile İspatla (Uygulamalar)
-"Kağıt üzerindeki kod geçersizdir" prensibiyle, çalışan, test edilmiş ve dökümante edilmiş laboratuvar projelerini `Uygulamalar/` altına gönder.
-
-### 3. Ustalık Kaynakları
-Mühendislik disiplinini pekiştiren, ufuk açan her türlü dijital kaynağı `../4_SISTEM/KAYNAK_MERKEZI.md` dosyasına ekle.
-
-### 4. AI-Native Stratejiler
-AI araçlarını mühendislik disiplinine nasıl entegre ettiğini, yeni "Prompting" tekniklerini `YAPAY_ZEKA_CAGI_REHBERI.md` üzerinden paylaş.
+Bu depoya yapılacak her `commit`, her `pull request` ve açılan her `issue`; sıradan bir kod parçası değil, sisteme entegre edilen bir **"Stratejik Mühimmat"** olarak değerlendirilir. Çöplük (Garbage) kodlar, özensiz dökümanlar ve disiplinsiz fikirler kapıdan içeri giremez.
 
 ---
 
-## 🛠️ Teknik Liyakat Şartları
-- **Dürüstlük:** Katkıların tamamen anlaşılmış ve dökümante edilmiş olması gerekir.
-- **Standartlar:** `TEKNOLOJI_YIGINI.md` (Disiplin Kanunu) içerisindeki kurallara mutlak uyum.
-- **Vizyon:** Sınav odaklı değil, her zaman **Ustalık (Mastery)** odaklı içerikler üretilmelidir.
+## ⚔️ KATILIM KURALLARI (RULES of ENGAGEMENT)
+
+### 1. PROTOKOL: NİTELİK > TUS > NİCELİK
+Bin satırlık çöp kod yerine, sistemi optimize eden tek bir satır kodu tercih ederiz. Gönderdiğin şeyin bir **AMACI** olmalı.
+- **Yasak:** "Typo fix", "Update", "WIP" gibi anlamsız commit mesajları.
+- **Zorunlu:** `feat:`, `fix:`, `docs:`, `refactor:` gibi [Conventional Commits](https://www.conventionalcommits.org/) standartları.
+
+### 2. PROTOKOL: TAM DONANIMLI İSTİHBARAT (ISSUES)
+Bir hata (bug) bulduysan veya bir önerin varsa, bunu bir istihbarat raporu hassasiyetinde sunmalısın.
+- **Başlık:** Sorunu tek cümle ile özetle.
+- **Detay:** Hata nasıl oluştu? (Adım adım).
+- **Kanıt:** Ekran görüntüsü veya log kaydı.
+
+### 3. PROTOKOL: CERRAHİ MÜDAHALE (PULL REQUESTS)
+Kodunu birleştirmemiz için (Merge), onun "Steril" ve "Güvenli" olduğunu kanıtlaman gerekir.
+- Kodun temiz (Clean Code) olmalı.
+- Yaptığın değişiklik mevcut sistemi bozmamalı.
+- Açıklama kısmında NE yaptığını değil, **NEDEN** yaptığını anlatmalısın.
 
 ---
-> "Paylaşılan her bilgi, kolektif bir disiplinin parçasıdır."
+
+## 🚀 GÖREV SÜRECİ (MISSION FLOW)
+
+1.  **Fork:** Depoyu kendi üssüne kopyala.
+2.  **Branch:** Yeni bir operasyon dalı aç (`feature/super-weapon`).
+3.  **Code:** Kodunu yaz, test et, dokümante et.
+4.  **Push:** Kendi üssüne gönder.
+5.  **PR:** Ana üsse (bizim depoya) birleşme talebi gönder.
+
+---
+
+<div align="center">
+
+**[ONAY BEKLENİYOR...]**  
+*Katkılarınız incelenecek ve liyakat seviyenize göre işleme alınacaktır.*
+
+</div>
