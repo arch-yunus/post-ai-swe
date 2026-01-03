@@ -16,6 +16,15 @@
 
 [🛰️ Mimari](./1_DOKTRIN/MIMARI_YAPI.md) • [📜 Manifesto](./1_DOKTRIN/_MANIFESTO/README.md) • [📡 Yol Haritası](./3_KARIYER/YOL_HARITALARI/README.md) • [📜 Ustalık Logu](./4_SISTEM/ANA_LOG.md)
 
+<div align="center">
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **LANG** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **CORE** | ![Algorithm](https://img.shields.io/badge/Algorithm-mastery-red?style=flat-square) | ![Data](https://img.shields.io/badge/Data-Structs-blue?style=flat-square) | ![System](https://img.shields.io/badge/System-Design-orange?style=flat-square) | ![OS](https://img.shields.io/badge/OS-Kernel-black?style=flat-square) | ![Git](https://img.shields.io/badge/Git-Pro-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
 ---
 
 </div>
@@ -25,27 +34,21 @@
 **Depo sistemi, 6 stratejik katman üzerine inşa edilmiştir. Her katman, mühendislik yolculuğunuzun farklı bir evresini temsil eder:**
 
 ### 📂 [0_MUREDDAAT](./0_MUREDDAAT/) | Ustalık ve Müfredat Katmanı
-KTÜ Yazılım Mühendisliği resmi müfredatının liyakatle "hacklenmiş" hali. 4 yıllık yolculuk, 8 stratejik sektöre ayrılmıştır:
+KTÜ Yazılım Mühendisliği resmi müfredatının liyakatle "hacklenmiş" hali. 4 yıllık yolculuk, **8 stratejik sektöre** ayrılmıştır:
 
-#### 🔥 1. SINIF: ATEŞLEME (Algoritma ve Mantık)
-- **SEC-01 (Güz):** [Algoritma I](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md) | *Odak:* Pointerlar, Stack Disiplini, C Mantığı.
-- **SEC-02 (Bahar):** [Algoritma II](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md) | *Odak:* Gelişmiş Yapılar, Dosya Sistemleri.
+| S | EVRE (PHASE) | KOD | DERS (OPERASYON) | ODAK (FOCUS) | BAĞLANTI |
+|:---:|:---|:---:|:---|:---|:---:|
+| **1** | 🔥 **ATEŞLEME**<br>*(Ignition)* | SEC-01 | **Algoritma ve Prog. I** | Pointerlar, Bellek Yönetimi | [📂 GİRİŞ](./0_MUREDDAAT/1_SINIF/1_Guz/Algoritma_ve_Programlama_I/Ders_Plani.md) |
+| **1** | 🔥 **ATEŞLEME**<br>*(Ignition)* | SEC-02 | **Algoritma ve Prog. II** | Dosya Sis., Structs | [📂 GİRİŞ](./0_MUREDDAAT/1_SINIF/2_Bahar/Algoritma_ve_Programlama_II/Ders_Plani.md) |
+| **2** | 🛡️ **TAHKİMAT**<br>*(Fortification)* | SEC-03 | **Veri Yapıları** | Heap, Tree, HashMaps | [📂 GİRİŞ](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md) |
+| **2** | 🛡️ **TAHKİMAT**<br>*(Fortification)* | SEC-04 | **Veritabanı YS** | SQL, Normalizasyon | [📂 GİRİŞ](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md) |
+| **3** | ⚡ **YÜKSELİŞ**<br>*(Ascension)* | SEC-05 | **İşletim Sistemleri** | Kernel, Concurrency | [📂 GİRİŞ](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md) |
+| **3** | ⚡ **YÜKSELİŞ**<br>*(Ascension)* | SEC-06 | **Yazılım Mimarisi** | OOP, Design Patterns | [📂 GİRİŞ](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md) |
+| **4** | 🌌 **ÖTESİ**<br>*(Singularity)* | SEC-07 | **Test ve Kalite** | TDD, CI/CD, DevSecOps | [📂 GİRİŞ](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md) |
+| **4** | 🌌 **ÖTESİ**<br>*(Singularity)* | SEC-08 | **Bitirme Tezi** | Mimari Üstünlük | [📂 GİRİŞ](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md) |
+
 > [!TIP]
-> **Rehber:** [Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md) temel atarken en büyük yardımcınızdır.
-
-#### 🛡️ 2. SINIF: TAHKİMAT (Veri ve Mimari)
-- **SEC-03 (Güz):** [Veri Yapıları](./0_MUREDDAAT/2_SINIF/3_Guz/Veri_Yapilari/Ders_Plani.md) | *Odak:* Heap Yönetimi, Ağaçlar, Big O Optimizasyonu.
-- **SEC-04 (Bahar):** [Veritabanı](./0_MUREDDAAT/2_SINIF/4_Bahar/Veritabani_Yonetim_Sistemleri/Ders_Plani.md) | *Odak:* DB Mimarisi, Normalizasyon, SQL Mastery.
-
-#### ⚡ 3. SINIF: YÜKSELİŞ (Sistem ve Ağ)
-- **SEC-05 (Güz):** [İşletim Sistemleri](./0_MUREDDAAT/3_SINIF/5_Guz/Isletim_Sistemleri/Ders_Plani.md) | *Odak:* Kernel Modları, Süreç Senkronizasyonu.
-- **SEC-06 (Bahar):** [Tasarım ve Mimari](./0_MUREDDAAT/3_SINIF/6_Bahar/Yazilim_Tasarim_ve_Mimarisi/Ders_Plani.md) | *Odak:* SOLID, Design Patterns, Hexagonal Architecture.
-> [!IMPORTANT]
-> **Rehber:** [Sistem Tasarımı El Kitabı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md) bu aşamada ana haritanızdır.
-
-#### 🌌 4. SINIF: ÖTESİ (Kalite ve Tekillik)
-- **SEC-07 (Güz):** [Test ve Kalite](./0_MUREDDAAT/4_SINIF/7_Guz/Yazilim_Testi_ve_Kalitesi/Ders_Plani.md) | *Odak:* TDD, Otonom Testler, DevSecOps.
-- **SEC-08 (Bahar):** [Bitirme Projesi](./0_MUREDDAAT/4_SINIF/8_Bahar/Bitirme_Calismasi/Ders_Plani.md) | *Odak:* Final Seal, Uçtan Uca Sistem İnşası.
+> **Taktiksel Rehber:** [Sistem Tasarımı El Kitabı](./2_USTALIK/_REHBERLER/SISTEM_TASARIMI_EL_KITABI.md) ve [Programlama Doktrini](./2_USTALIK/_REHBERLER/PROGRAMLAMA_DOKTRINI.md), bu operasyonlarda hayatta kalmanızı sağlayacak ana kaynaklardır.
 
 ---
 
@@ -138,11 +141,17 @@ Trabzon'un Of ilçesinde konuşlu akademik üssünden, küresel yazılım mühen
 ## 📡 TERMİNAL LOGLARI (MASTER FEED)
 
 ```bash
-[SYS_BOOT]: KTÜ Yapay Zeka Sonrası Merkezi Başlatıldı... [TAMAM]
-[STRUCT]: 6 Katmanlı Stratejik Hiyerarşi Aktif.
-[LIYAKAT]: Sektör 01-08 Taranıyor... Bütünlük doğrulandı.
-[AI_SYNC]: Tekil AI sinerjisi aktif. 
-[DESTINY]: Milli Teknoloji Egemenliğine giden yol tanımlandı.
+# SYSTEM_INIT_SEQUENCE: v4.2.0-ALFA
+# AUTH_USER: ROOT_ACCESS (Likayet Seviyesi: ONAYLI)
+
+[00:00:01] [KERNEL]  : Çekirdek Sistemler Yükleniyor... [OK]
+[00:00:02] [NETWORK] : Trabzon/Of Bağlantı Noktası Aktif. [SECURE]
+[00:00:05] [DATABASE]: Müfredat verileri 'STRATEJİK_BİLGİ'ye dönüştürülüyor...
+[00:01:12] [WARNING] : Sisteme yetkisiz (Ezberci) giriş denemesi engellendi.
+[00:01:45] [AI_CORE] : Nöral Ağlar Senkronize Edildi. (Kapasite: %100)
+[00:02:00] [MISSION] : "Milli Teknoloji Hamlesi" protokolü devrede.
+
+>>> READY FOR COMMAND_
 ```
 
 ---
