@@ -1,117 +1,72 @@
-<!--
-/// SYSTEM_INITIALIZATION: COMPLETED
-/// PROTOCOL: POST-AI_EVOLUTION
-/// ARCHITECT: @BAHATTINYUNUS
-/// VERSION: 2.0.0 "THE SINGULARITY"
--->
 
-<div align="center">
 
-![Post-AI SWE Banner](./assets/img/banner.png)
+# 🚀 Post-AI Software Engineering (PAISE) Curriculum
 
-# 🌌 POST-AI SOFTWARE ENGINEERING (SWE)
-### "Eski müfredatlar çürüyor, kod artık nefes alıyor."
+> **"Kod artık bir çıktı değil, bir emtiadır. Gerçek değer; problem çözümünde, sistem mimarisinde ve yapay zeka orkestrasyonundadır."**
 
-[![Engine](https://img.shields.io/badge/ENGINE-COLLECTIVE_INTELLIGENCE-00FFA3?style=for-the-badge&logo=probot)](./1_DOKTRIN/KATKI_REHBERI.md)
-[![Status](https://img.shields.io/badge/STATUS-ALWAYS_EVOLVING-FFBD00?style=for-the-badge&logo=git-lfs)](./4_SISTEM/ANA_LOG.md)
-[![License](https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge)](./LICENSE)
+Geleneksel yazılım mühendisliği müfredatları, "nasıl kod yazılır?" sorusuna odaklanır. **PAISE**, yapay zekanın kodu saniyeler içinde üretebildiği bir dünyada, "hangi sistem inşa edilmeli ve nasıl denetlenmeli?" sorusuna yanıt arayan, çok disiplinli bir mühendislik yaklaşımıdır.
 
 ---
 
-**Bu bir ders notu deposu değil; bir mutasyon merkezidir.**  
-Yapay Zeka'nın kodu yazabildiği bir çağda, mühendisin tek gerçek kalesi **Mimari Vizyon** ve **Hibrit Uygulama** yeteneğidir. 
+## 🎯 Vizyon
+Yazılım geliştiriciyi bir "operatör"den, karmaşık sistemleri yöneten bir **Sistem Tasarımcısı** ve **Mimarı**na dönüştürmek. Bu müfredat, sözdizimi (syntax) ezberlemek yerine; mantıksal akış, endüstriyel optimizasyon ve yapay zeka ile simbiyotik çalışma üzerine inşa edilmiştir.
 
-[🏛️ Manifesto](./1_DOKTRIN/_MANIFESTO/README.md) • [🛰️ Mimari](./1_DOKTRIN/MIMARI_YAPI.md) • [📡 Yol Haritaları](./3_KARIYER/YOL_HARITALARI/README.md) • [🛠️ Katkıda Bulun](./CONTRIBUTING.md)
+## 🏛️ Müfredatın 4 Ana Sütunu
 
-</div>
-
----
-
-## 🦾 POST-AI PARADOKSU: NEDEN BURADAYIZ?
-
-Geleneksel eğitim sistemleri, güncellenmesi 4 yıl süren "statik" doktrinlerdir. Oysa biz, **6 aylık** teknolojik döngülerin içinde yaşıyoruz. `post-ai-swe`, üniversite eğitimini bir **Bootloader** olarak kabul eder; asıl **İşletim Sistemini** burada, kolektif akılla her gün yeniden derler.
-
-| ESKİ DÜNYA (Legacy) | YENİ DÜNYA (Post-AI) |
-|:---\|:---|
-| Syntax Ezberlemek | Mimari Tasarlamak |
-| StackOverflow'da Zaman Kaybı | LLM/Prompt Engineering ile 10x Hız |
-| Müfredata Bağımlılık | "Just-in-Time" Learning |
-| Tekil Gelişim | "The Swarm" (Kolektif Gelişim) |
+| Sütun | Odak Noktası | Tanım |
+| :--- | :--- | :--- |
+| **1. Problem Ayrıştırma** | *Decomposition* | Karmaşık iş problemlerini, AI ajanlarının çözebileceği atomik parçalara bölme yetisi. |
+| **2. Sistem Mimarisi** | *Architecture* | Mikro hizmetlerden ajan tabanlı (agentic) iş akışlarına geçiş ve modüler tasarım. |
+| **3. Doğrulama & Denetim** | *V&V (Verification)* | AI tarafından üretilen kodun güvenliğini, performansını ve mantığını test etme protokolleri. |
+| **4. Endüstriyel Entegrasyon** | *Optimization* | Yazılımın sadece dijitalde değil, fiziksel ve operasyonel süreçlerdeki (endüstriyel) etkisi. |
 
 ---
 
-## 🛰️ STRATEJİK KATMANLAR (OPERATIONAL HUB)
+## 📚 Müfredat İçeriği (Yol Haritası)
 
-Proje 6 kritik katmandan oluşur. Her katman, mühendislik evriminin bir safhasıdır.
+### 🟢 Seviye 1: AI-Native Temeller
+* **Prompt Engineering vs. Prompt Programming:** Talimat vermekten, mantıksal akış tasarlamaya.
+* **Agentic IDE Kullanımı:** Cursor, Windsurf ve yerel LLM entegrasyonları ile "hızlı prototipleme".
+* **Kod Okuryazarlığı:** Yazılan kodu değil, üretilen kodun "ne yapmak istediğini" anlama.
 
-### 🧬 [0_MUREDDAAT](./0_MUREDDAAT/) — Evrimsel Müfredat (The Evolution Path)
-Üniversite duvarlarının dışına taşan, tamamen otonom ve liyakat odaklı 8 Safhalı gelişim yolculuğudur.
+### 🔵 Seviye 2: Mimari ve Akış Tasarımı
+* **Sistem Dinamikleri:** Yazılımın bir bütün olarak nasıl nefes aldığını anlamak.
+* **API-First & AI-First Design:** İnsanlar için değil, makineler ve ajanlar için arayüzler tasarlamak.
+* **Veri Modelleme:** Vektör veritabanları ve RAG (Retrieval-Augmented Generation) mimarileri.
 
-| F | SAFHA (PHASE) | ODAK (FOCUS) | DURUM | BAĞLANTI |
-|:---:|:---|:---|:---:|:---:|
-| **1** | 🔴 **IGNITION** | Shell, Git, Zihin Formatlama | 🛰️ Aktif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_01_IGNITION/Operasyon_Plani.md) |
-| **2** | 🟠 **LOW-LEVEL** | C, Memory, Pointers | 📡 Hazırlık | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_02_LOW_LEVEL/) |
-| **3** | 🟡 **CORE** | Data Structures, Modern DBs | 📡 Hazırlık | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_03_CORE/) |
-| **4** | 🟢 **ARCHITECT** | System Design, Patterns | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_04_ARCHITECT/) |
-| **5** | 🔵 **FORGE** | AI-Augmented Fullstack | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_05_FORGE/) |
-| **6** | 🟣 **AUTONOMY** | Agentic AI, LLM Integration | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_06_AUTONOMY/) |
-| **7** | ⚪ **PRODUCTION** | DevSecOps, Scalability | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_07_PRODUCTION/) |
-| **8** | 🌌 **SINGULARITY** | Final Autonomous Product | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_08_SINGULARITY/) |
-
-### ⚔️ [2_USTALIK](./2_USTALIK/) — Savaş Sahası
-Teorinin pratikle çarpıştığı nokta. Modern teknoloji yığınları (Stack), sistem tasarımı ve ileri düzey metodolojiler.
-
-### 🌐 [3_KARIYER](./3_KARIYER/) — Küresel Etki
-Kazanılan teknik üstünlüğün, global piyasada stratejik bir kariyere ve nüfuza dönüştürülmesi sanatı.
-
-### 📟 [4_SISTEM](./4_SISTEM/) — Telemetri & Kontrol
-Gelişimin veriyle yönetildiği, ana operasyon loglarının ve stratejik özetlerin tutulduğu kontrol paneli.
-
-### 📂 [5_ARSIV](./5_ARSIV/) — Kolektif Hafıza
-Geçmişin tecrübeleri, referans materyaller ve dondurulmuş projeler.
+### 🔴 Seviye 3: İleri Seviye Optimizasyon ve Güvenlik
+* **AI Güvenliği:** Prompt injection ve model sapmalarına karşı savunma stratejileri.
+* **Maliyet ve Token Yönetimi:** $$Verimlilik = \frac{Çıktı Kalitesi}{Token Maliyeti}$$ denklemi üzerinden sistem optimizasyonu.
+* **Operasyonel Mükemmellik:** Yazılımın endüstriyel süreçlere (lojistik, üretim, robotik) adaptasyonu.
 
 ---
 
-## 🤖 TEKNOLOJİ YIĞINI (ELİTE STOIC STACK)
+## 🛠️ Repo Yapısı
 
-Gelişim için kullanılan ve önerilen ana araçlar:
-
-- **OS:** Linux (Ubuntu/Debian) / WSL2
-- **Cortex:** Cursor / VS Code (AI Integrated)
-- **Engine:** LLMs (Claude 3.5 Sonnet, GPT-4o)
-- **Version Control:** Git & GitHub (Advanced Flow)
-
----
-
-## 📡 SİSTEM TELEMETRİSİ
-
-```mermaid
-graph TD
-    A[KTÜ Müfredatı] -->|Filtreleme| B{KOLEKTİF AKIL}
-    B -->|Evrim| C[Living Curriculum]
-    B -->|Otomasyon| D[CI/CD & Link Check]
-    C & D --> E((🌌 GLOBAL MÜHENDİS))
-    E -->|Geri Bildirim| B
+```text
+.
+├── 01-felsefe-ve-zihniyet/    # Post-AI mühendislik etiği ve bakış açısı
+├── 02-teknik-mufredat/        # Modül modül ders içerikleri
+│   ├── PHASE_01_IGNITION/
+│   ├── PHASE_02_LOW_LEVEL/
+│   └── ...
+├── 03-vaka-analizleri/        # Gerçek dünya projeleri ve AI çözümleri
+├── 04-araç-kütüphanesi/       # Önerilen AI araçları ve yapılandırmalar
+├── 99-sistem-ve-arsiv/        # Arşivlenmiş sistem dosyaları
+└── CONTRIBUTING.md            # Müfredata nasıl katkı sağlarsınız?
 ```
 
 ---
 
-## 🤝 KOLEKTİF AKLA KATIL (CONTRIBUTIONS)
-
-Bu repo bir "yazar" tarafından değil, bir "topluluk" tarafından yönetilir. Otorite yoktur, bilimsel üstünlük ve temiz kod vardır.
-1. [Katkı Rehberi](./CONTRIBUTING.md)'ni oku.
-2. Sisteme uygun bir Issue aç veya PR gönder.
-3. Mimariyi birlikte büyütelim.
+## 🤝 Katkıda Bulunun
+Bu yaşayan bir müfredattır. Yapay zeka her gün gelişirken, bu dökümanın da gelişmesi gerekir. Özellikle aşağıdaki alanlarda katkılarınızı bekliyoruz:
+* Yeni nesil test metodolojileri.
+* Endüstriyel yazılım optimizasyon örnekleri.
+* Disiplinlerarası (Hukuk, Tarih, Endüstri Mühendisliği) yazılım yaklaşımları.
 
 ---
 
-<div align="center">
+**Multi-Disciplinary Systems Designer | Solopreneur** bakış açısıyla hazırlanmıştır.
 
-**"Sadece ilk taşı koydum. Kaleyi birlikte inşa edeceğiz."**  
-**[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**  
-*IT Architect & Initiator of Post-AI Vision*
+---
 
-`STATUS: SINGULARITY_MODE_ACTIVE`  
-`EVOLUTION: NON-STOP`
-
-</div>

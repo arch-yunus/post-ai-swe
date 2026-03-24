@@ -10,7 +10,7 @@ Post-AI dünyasına giriş yapmak, araçları (Silahları) kuşanmak ve algoritm
 - **AI Support:** Claude 3.5 Sonnet, GitHub Copilot
 
 ## 📚 Müfredat ve Kaynaklar (Curriculum)
-- [ ] **Modül 1: Zihin Formatlama** - [Manifestoyu Oku](../../1_DOKTRIN/_MANIFESTO/README.md)
+- [ ] **Modül 1: Zihin Formatlama** - [Manifestoyu Oku](../../01-felsefe-ve-zihniyet/_MANIFESTO/README.md)
 - [ ] **Modül 2: Terminal Hakimiyeti** - Temel Linux komutları ve dosya sistemi.
 - [ ] **Modül 3: Versiyon Kontrolü** - Git temelleri ve GitHub Workflow.
 - [ ] **Modül 4: Algoritmik Giriş** - Problem çözme yeteneği (Pseudo-code & Logic).
