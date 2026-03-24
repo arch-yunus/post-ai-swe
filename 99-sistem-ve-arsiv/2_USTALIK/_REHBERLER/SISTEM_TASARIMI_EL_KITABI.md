@@ -24,3 +24,4 @@ Sistemlerin çökmesi bir olasılık değil, bir kesinliktir.
 
 ---
 > "Mimar, sadece bina yapan değil, deprem olduğunda içindekileri koruyabilen kişidir."
+

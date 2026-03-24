@@ -27,3 +27,4 @@ Aynı hatanın bir daha yaşanmaması için:
 
 ---
 \`SIGNAL: CRISIS_CONTROL_ACTIVE\`
+

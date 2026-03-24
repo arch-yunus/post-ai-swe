@@ -22,3 +22,4 @@ Zamanınızı en verimli şekilde kullanmak için AI'dan plan isteyin.
 
 ---
 > "Yapay zeka, zihninizin 100x genişlemiş halidir; onu sadece kod kopyalamak için kullanmak, bir Ferrari ile bakkala gitmeye benzer."
+

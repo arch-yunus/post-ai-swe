@@ -22,3 +22,4 @@ Sistemi parçalara ayırarak hatanın kaynağını daraltın.
 
 ---
 \`SIGNAL: DEBUG_MODE_MAXIMIZED\`
+

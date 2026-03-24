@@ -26,3 +26,4 @@ Müfredattaki her ders, bu yol haritalarında bir "Yetkinlik Kapısı" (Competen
 
 ---
 \`PATH_SYNC: OPERATIONAL\`
+

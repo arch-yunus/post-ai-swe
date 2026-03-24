@@ -18,3 +18,4 @@ RAM sınırlıdır, ama hayallerimiz değil. Sanal bellek, size devasa bir alan 
 
 ---
 \`SIGNAL: KERNEL_INTELLIGENCE_LOCKED\`
+

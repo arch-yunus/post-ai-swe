@@ -21,3 +21,4 @@ Başarı 10 kullanıcıda değil, 10 milyon kullanıcıda belli olur.
 
 ---
 \`SİNYAL: MİMARİ_USTALIK_KİLİTLENDİ\`
+

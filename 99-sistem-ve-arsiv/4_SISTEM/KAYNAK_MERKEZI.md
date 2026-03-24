@@ -27,3 +27,4 @@ Sistemin "sadece müfredat yeterlidir" illüzyonuna karşı, mühendislik disipl
 
 ---
 > "Mühendislik diplomayla değil, her gün disiplinle inşa edilen bir zanaattır."
+

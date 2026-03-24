@@ -22,3 +22,4 @@ Size yardım eden birine borcunuzu ödemenin en iyi yolu, sizden sonra gelene ya
 
 ---
 > "Zirveye tek başına çıkmak başarı olabilir, ama başkalarını da oraya taşımak liderliktir."
+

@@ -35,3 +35,4 @@ Sadece "Hello World" yazarak mühendis olunmaz. Her yılın sonunda kendinize bi
 
 ---
 > "Proje, teorinin gerçek dünyadaki imzasıdır."
+

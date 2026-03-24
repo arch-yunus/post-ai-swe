@@ -21,3 +21,4 @@ RAM sınırlıdır, ancak sistem vizyonumuz değildir.
 
 ---
 \`SİNYAL: ÇEKİRDEK_USTALIGI_KİLİTLENDİ\`
+

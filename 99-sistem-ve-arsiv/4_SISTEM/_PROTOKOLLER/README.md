@@ -21,3 +21,4 @@ Bu klasör, bir mühendisin karşılaştığı yüksek riskli ve kritik durumlar
 ---
 \`PROTOCOLS_STATUS: OPERATIONAL\`  
 \`CLEARANCE: MASTER_ENGINEER\`
+

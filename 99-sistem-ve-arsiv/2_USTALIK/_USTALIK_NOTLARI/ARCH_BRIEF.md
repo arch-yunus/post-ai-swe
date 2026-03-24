@@ -18,3 +18,4 @@ Bir sistemin başarısı, 10 kullanıcıda değil, 10 milyon kullanıcıda belli
 
 ---
 \`SIGNAL: ARCHITECTURE_INTELLIGENCE_LOCKED\`
+
