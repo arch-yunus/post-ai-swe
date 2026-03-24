@@ -120,6 +120,40 @@ Bu müfredat "statik" değildir. Her pull request, PAISE'nin bir sonraki sürüm
 
 ---
 
+## 🛡️ TOPLULUK DOKTRİNİ (COMMUNITY DOCTRINE)
+
+> [!CAUTION]
+> ### ⚔️ KURAL 01: OTORİTE KİMSE DEĞİLDİR (NO MASTERS)
+> PAISE ekosisteminde bilgi hiyerarşisi yoktur. En iyi fikri kimin söylediği değil, o fikrin sistem mimarisine sağladığı liyakat esastır. Egonuzu kapıda bırakın, PR'ınızı atın.
+
+> [!IMPORTANT]
+> ### 🤖 KURAL 02: ADAPTASYON YA DA ÖLÜM (ADAPT OR DIE)
+> Bugünün "State-of-the-art" modeli yarının "Legacy" teknolojisidir. PAISE belirli bir araca değil, değişimi bizzat yöneten "Mimarlık" zihniyetine sadıktır. Değişemeyen elenir.
+
+---
+
+## 💻 SAVAŞ İSTASYONU (BATTLESTATION CONFIG)
+
+Yapay zeka orkestrasyonu için optimize edilmiş önerilen çalışma ortamı:
+
+| TÜR | TAVSİYE EDİLEN (RECOMMENDED) | NOTLAR |
+|:---|:---|:---|
+| **OS** | **Linux / WSL2** | Özgür yazılım, yüksek terminal hızı. |
+| **IDE** | **Cursor / Windsurf** | AI-Native kodlama ve ajan yönetimi için. |
+| **LLMs** | **Claude 3.5 Sonnet / GPT-4o** | Mimari analiz ve problem ayrıştırma için. |
+| **CONSOLE** | **Warp / Oh-My-Zsh** | AI entegre edilmiş güçlü terminal akışları. |
+
+---
+
+## 🌐 KÜRESEL İTTİFAK (GLOBAL ALLIANCE)
+
+PAISE bir yalnızlık değil, bir "Swarm" (Sürü) hareketidir. Bu canlı organizmaya katıl, beslen ve besle.
+
+- **[LinkedIn Operasyon Ağı](https://www.linkedin.com/in/bahattinyunus/)**: Profesyonel stratejiler ve networking.
+- **[GitHub Karargahı](https://github.com/bahattinyunus)**: PAISE çekirdek kodları ve diğer projeler.
+
+---
+
 <div align="center">
 
 **"Mimari bir kaderdir. Kaleyi birlikte inşa ediyoruz."**  
