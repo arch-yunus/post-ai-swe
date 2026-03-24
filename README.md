@@ -44,11 +44,19 @@ Geleneksel eğitim sistemleri, güncellenmesi 4 yıl süren "statik" doktrinlerd
 
 Proje 6 kritik katmandan oluşur. Her katman, mühendislik evriminin bir safhasıdır.
 
-### 🧬 [0_MUREDDAAT](./0_MUREDDAAT/) — Çekirdek Doktrin
-KTÜ Yazılım Mühendisliği müfredatının, global elit standartlara göre optimize edilmiş ve AI destekli araçlarla hibritleştirilmiş "Ustalık" versiyonudur.
+### 🧬 [0_MUREDDAAT](./0_MUREDDAAT/) — Evrimsel Müfredat (The Evolution Path)
+Üniversite duvarlarının dışına taşan, tamamen otonom ve liyakat odaklı 8 Safhalı gelişim yolculuğudur.
 
-### 🦅 [1_DOKTRIN](./1_DOKTRIN/) — Zihniyet & Felsefe
-Teknik beceriyi güce dönüştüren zihniyet kalıpları. "Zihin formatlanmadan, kod derlenmez."
+| F | SAFHA (PHASE) | ODAK (FOCUS) | DURUM | BAĞLANTI |
+|:---:|:---|:---|:---:|:---:|
+| **1** | 🔴 **IGNITION** | Shell, Git, Zihin Formatlama | 🛰️ Aktif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_01_IGNITION/Operasyon_Plani.md) |
+| **2** | 🟠 **LOW-LEVEL** | C, Memory, Pointers | 📡 Hazırlık | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_02_LOW_LEVEL/) |
+| **3** | 🟡 **CORE** | Data Structures, Modern DBs | 📡 Hazırlık | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_03_CORE/) |
+| **4** | 🟢 **ARCHITECT** | System Design, Patterns | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_04_ARCHITECT/) |
+| **5** | 🔵 **FORGE** | AI-Augmented Fullstack | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_05_FORGE/) |
+| **6** | 🟣 **AUTONOMY** | Agentic AI, LLM Integration | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_06_AUTONOMY/) |
+| **7** | ⚪ **PRODUCTION** | DevSecOps, Scalability | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_07_PRODUCTION/) |
+| **8** | 🌌 **SINGULARITY** | Final Autonomous Product | 🏁 Pasif | [📂 GİRİŞ](./0_MUREDDAAT/PHASE_08_SINGULARITY/) |
 
 ### ⚔️ [2_USTALIK](./2_USTALIK/) — Savaş Sahası
 Teorinin pratikle çarpıştığı nokta. Modern teknoloji yığınları (Stack), sistem tasarımı ve ileri düzey metodolojiler.
