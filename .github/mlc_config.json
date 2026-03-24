@@ -1,0 +1,15 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^http://localhost"
+    },
+    {
+      "pattern": "^https://github.com/bahattinyunus$"
+    },
+    {
+      "pattern": "^https://www.linkedin.com/in/bahattinyunus"
+    }
+  ],
+  "retryOn429": true,
+  "timeout": "20s"
+}
