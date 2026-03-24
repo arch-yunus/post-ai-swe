@@ -1,8 +1,7 @@
 <!--
 /// PAISE_ACADEMY_INITIALIZATION: OPERATIONAL
-/// ADMISSION_PROTOCOL: ELITE_MERITOCRACY
-/// VERSION: 6.0.0 "THE GRAND ACADEMY"
-/// CORE_PHILOSOPHY: ARCHITECTURE_OVER_SYNTAX
+/// VERSION: 7.0.0 "THE SUPREME ACADEMY"
+/// STATUS: ARCHITECTURAL_ASCENSION
 -->
 
 <div align="center">
@@ -10,135 +9,135 @@
 ![PAISE Academy Banner](./assets/img/banner.png)
 
 # 🏛️ PAISE ACADEMY: The School of Post-AI Engineering
-### "Diplomalar sadece birer kağıt parçasıdır; liyakat ise kodun içindeki mimari ruhun ta kendisidir."
+### "Kod bir araçtır, mimari bir dildir. Biz, geleceği bu dille inşa eden orkestratörleriz."
 
-[![Enrollment Status](https://img.shields.io/badge/ADMISSIONS-OPEN-00FFA3?style=for-the-badge&logo=googlescholar)](./CONTRIBUTING.md)
-[![Academic Status](https://img.shields.io/badge/FOUNDATION-COLLECTIVE_ARCHITECTS-blueviolet?style=for-the-badge)](./01-felsefe-ve-zihniyet/)
-[![Global Accreditation](https://img.shields.io/badge/ACREDIATION-OPEN_SOURCE-red?style=for-the-badge)](./LICENSE)
+[![Enrollment](https://img.shields.io/badge/ADMISSIONS-OPEN-00FFA3?style=for-the-badge&logo=googlescholar)](./CONTRIBUTING.md)
+[![Accreditation](https://img.shields.io/badge/ACCREDITATION-POST_AI_SINGULARITY-blueviolet?style=for-the-badge)](./01-felsefe-ve-zihniyet/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/arch-yunus/post-ai-swe/ai-reviewer.yml?branch=main&style=for-the-badge&logo=github-actions&label=AI_REVIEWER)](https://github.com/arch-yunus/post-ai-swe/actions)
 
 ---
 
-**PAISE Academy**, yapay zekanın kodu saniyeler içinde üretebildiği, geleneksel yazılım mühendisliğinin temel varsayımlarının çöktüğü "Tekillik" (Singularity) sonrası dünyada; insanı bir "klavye işçisi" olmaktan çıkarıp, karmaşık sistemleri yöneten bir **Sistem Mimarı** ve **Otonom Orkestratör**e dönüştüren küresel bir eğitim karargahıdır.
+**PAISE Academy**, yapay zekanın kodu saniyeler içinde üretebildiği "Tekillik" (Singularity) sonrası dünyada; insanı bir "klavye işçisi" olmaktan çıkarıp, karmaşık sistemleri yöneten bir **Sistem Mimarı** ve **Otonom Orkestratör**e dönüştüren küresel bir eğitim karargahıdır.
 
-[📖 Kayıt Rehberi](#-1-kayit-ve-akademik-prosedür-admission) • [🗺️ Kampüs Planı](#-2-kampüs-plani-campus-layout) • [🎓 Mezuniyet](#-3-müfredat-ve-mezuniyet-the-syllabus) • [🛡️ Dekanlık](./CONTRIBUTING.md)
+[📖 Kayıt Rehberi](#-1-kayit-ve-akademik-prosedür) • [🗺️ Kampüs Planı](#-2-kampüs-plani-campus-layout) • [🔬 Laboratuvarlar](#-4-uygulamali-laboratuvar-oturumlari-lab-sessions) • [🎓 Mezuniyet](#-3-müfredat-ve-mezuniyet)
 
 </div>
 
 ---
 
-## 🏛️ 0. REKTÖRLÜK NOTU: PARADİGMA DEĞİŞİMİ (THE DEAN'S LOG)
+## 🏛️ 0. REKTÖRLÜK NOTU: TEKİLLİK HORİZONU (THE DEAN'S LOG)
 
-Geleneksel üniversitelerin 4 yıllık müfredatları, teknolojinin 6 aylık döngülerle mutasyona uğradığı bir çağda "fosilleşmiş dökümanlar" olmaktan öteye gidememektedir. Kod yazmak artık bir "yetenek" değil, bir "commodity" (emtia) haline gelmiştir. **PAISE Academy**, bu radikal değişimin merkezinde durur. Biz, öğrencilere sözdizimi (syntax) ezberletmiyoruz; biz, yapay zekayı bir ekzo-iskelet gibi kullanarak imkansız görünen sistemleri saniyeler içinde tasarlayıp, milisaniyeler içinde kontrol altına alabilen "Hibrit Mühendisler" yetiştiriyoruz. Bu akademi, statik bir bilgi bankası değil, her PR ile kendini yeniden derleyen (re-compile) yaşayan bir organizmadır.
+Geleneksel eğitim sistemleri, "nasıl kod yazılır?" sorusuna takılıp kalmışken, **PAISE Academy** "nasıl sistem inşa edilir?" sorusunu merkezine alır. LLM'ler (Large Language Models) artık kod üretimini demokratize etmiştir. Ancak, bu sınırsız üretim kapasitesi beraberinde **"Mimari Kaos"** riskini getirir. PAISE mühendisi, bu kaosun içindeki düzeni kuran kişidir. Biz burada sadece döküman okumuyor, yapay zekayı bir ekzo-iskelet gibi kullanarak gerçek dünya problemlerini saniyeler içinde otonom çözümlere dönüştüren "Korteksler" yetiştiriyoruz. Bu akademi, her bir öğrencisinin PR'ıyla (Pull Request) kendini yeniden optimize eden, yaşayan bir mühendislik beynidir.
 
 ---
 
 ## 📑 1. KAYIT VE AKADEMİK PROSEDÜR (ADMISSION)
 
-Akademiye giriş yapmak için herhangi bir merkezi sınav veya ücret gerekmez. Ancak, PAISE disiplinine uyum sağlamak için yüksek toleranslı bir liyakat eşiği ve mutlak bir öğrenme iştahı zorunludur. Akademi, zamanını boşa harcayanları değil, sistem üzerinde gerçek iz bırakanları ödüllendirir.
+Akademiye kabul edilmek için geçmişteki ünvanlarınızın bir önemi yoktur. Burada tek geçer akçe **Liyakat** ve **Disiplindir**. Akademi, statik bir bilgi bankası değil, aktif bir operasyon merkezidir.
 
-### 🧪 Ön Koşullar (Prerequisites)
-- **Derin Merak (Hyper-Curiosity):** "Bu sistem nasıl çalışıyor?" sorusunun ötesine geçip, "Bu sistemi nasıl daha verimli parçalara bölerim?" diyebilmek.
-- **Teknik Okuryazarlık (Code Fluency):** Kodun satır satır ne yazdığını değil, bir algoritmanın niyetini ve yan etkilerini (side-effects) büyük resimde görebilme yetisi.
-- **Donanımsal Hazırlık:** [Savaş İstasyonu](#-5-savaş-istasyonu-research-labs) konfigürasyonuna uygun, otonom çalışmaya hazır bir geliştirme ortamı.
-
-### 📝 Kayıt Adımları (Enrollment Procedure)
-1.  **Repo'yu Forkla ve Yerel Klasörüne Çek:** Kendi dijital öğrenci cüzdanını ve çalışma odanı oluştur.
-2.  **Manifestoyu İmzala:** [01-felsefe-ve-zihniyet](./01-felsefe-ve-zihniyet/) altındaki doktrinleri oku. Eğer zihnin post-AI dünyasına hazır değilse, teknik derslere başlaman sadece vakit kaybı olacaktır.
-3.  **İlk PR Operasyonu:** `CONTRIBUTING.md` rehberine uygun olarak sisteme ilk katkını sağla. Bu, senin "Kayıt Formun" sayılacaktır.
+### 📝 Kayıt Protokolü (Enrollment)
+1.  **Repo'yu Forkla ve Senkronize Et:** Kendi dijital öğrenci cüzdanını oluştur.
+2.  **Manifesto Onayı:** [01-felsefe-ve-zihniyet](./01-felsefe-ve-zihniyet/) altındaki doktrinleri oku. Zihnini "Legacy SWE" varsayımlarından temizlemeden teknik safhalara geçemezsin.
+3.  **Savaş İstasyonunu Kur:** [Bölüm 5](#-5-savaş-istasyonu-research-labs)'teki konfigürasyonu tamamla. Terminal senin silahın, AI ise mermindir.
 
 ---
 
 ## 🗺️ 2. KAMPÜS PLANI (CAMPUS LAYOUT)
 
-PAISE Kampüsü, bir mühendisin gelişim döngüsünü simgeleyen 5 ana departmandan oluşur. Her departman, bir öncekinin üzerine inşa edilen bir yetkinlik katmanıdır.
+PAISE Kampüsü, bir mühendisin evrimsel yolculuğunu simgeleyen 5 ana departman ve bir legacy kütüphaneden oluşur:
 
-| DEPARTMAN | KAMPÜS ALANI | OPERASYONEL TANIM (FUNCTION) |
+| DEPARTMAN | KOD ADI | OPERASYONEL TANIM |
 |:---|:---|:---|
-| 🧬 **01-Felsefe** | **Rektörlük & Doktrinler** | Yazılımın etik, felsefi ve stratejik temelleri. "Neden?" sorusunun akademik olarak yanıtlandığı, zihinlerin formatlandığı merkez. |
-| 🏗️ **02-Teknik** | **Derslikler & Laboratuvarlar** | 8 safhalı (PHASE 01-08) yoğunlaştırılmış teknik müfredat. Kodun mimariye, mimarinin ürüne dönüştüğü ana uygulama sahası. |
-| 🧪 **03-Vaka** | **Simülasyon Merkezi** | Teorik bilginin gerçek dünya krizleriyle (Post-mortem analizler, büyük sistem çöküşleri) test edildiği yüksek stresli simülasyon odası. |
-| 🛠️ **04-Araçlar** | **Teknik Atölye (The Forge)** | AI ajanlarının (Agents), özel scriptlerin ve verimlilik otomasyonlarının dövüldüğü, üretildiği ve paylaşıldığı teknoloji bankası. |
-| 📚 **99-Arşiv** | **Kütüphane (Legacy)** | Eski dünya (pre-AI) bilgilerinin, üniversite notlarının ve dondurulmuş projelerin veri madenciliği için saklandığı kolektif hafıza. |
+| 🧬 **01-Felsefe** | **The Mind** | Yazılımın etik, felsefi ve stratejik temelleri. Zihin formatlama merkezi. |
+| 🏗️ **02-Teknik** | **The Forge** | 8 safhalı ana müfredat. Kodun mimariye, mimarinin otonom ürüne dönüştüğü yer. |
+| 🧪 **03-Vaka** | **The Simulation** | Gerçek dünya krizlerinin (Post-mortemler) ve kriz çözümlerinin analiz edildiği laboratuvar. |
+| 🛠️ **04-Araçlar** | **The Armory** | AI ajanlarının (Agents), elit scriptlerin ve otomasyon araçlarının üretim merkezi. |
+| 📚 **99-Arşiv** | **The Library** | Eski dünya (Legacy) bilgilerinin geleceği aydınlatmak için saklandığı hafıza deposu. |
 
 ---
 
-## 🎓 3. MÜFREDAAT VE MEZUNİYET (THE SYLLABUS)
+## 🎓 3. MÜFREDAT VE MEZUNİYET (THE SYLLABUS)
 
-Akademi, öğrenciyi pasif bir dinleyiciden aktif bir mimara dönüştürmek için 3 ana akademik kademe ve bir bitirme tezi (Singularity Project) üzerine kurulmuştur.
+Akademi, öğrenciyi bir "operatör"den "mimar"a dönüştürmek için 3 ana akademik kademe üzerine kurgulanmıştır.
 
-### 🟢 LİSANS: AI-Native Temeller (The Ignition)
-> **Hedef:** Klavye işçiliğinden kurtulup, makineler arası orkestrasyonun dilini sökmek.
-Bu seviyede öğrenci, terminalin (Shell) karanlık dünyasına iner, Git ile zaman yolculuğu yapmayı öğrenir ve Prompt Engineering'i bir "talimat listesi" değil, bir "logic design" (mantık tasarımı) olarak kullanmaya başlar.
+### 🟢 LİSANS: AI-Native Temeller (Ignition)
+> **Dersler:** Prompt Engineering 101, Linux Kernel Mastery, Modern Git Workflows.
+> **Çıktı:** Tek başına bir projenin %80'ini AI yardımıyla 1 saat içinde ayağa kaldırabilecek hız ve vizyon.
 
 ### 🔵 YÜKSEK LİSANS: Mimari ve Akış (Core Evolution)
-> **Hedef:** Bağımsız AI çıktılarını, karmaşık ve otonom sistemler halinde koordine etmek.
-Öğrenci artık tek başına kod parçaları üretmez; Mikro-hizmetlerin (Microservices) birbirleriyle nasıl konuştuğunu tasarlar, Vektör veritabanlarını AI'nın "Dış Hafızası" olarak projeye entegre eder ve sistem dinamiklerini (scalability, latency) AI yardımıyla optimize eder.
+> **Dersler:** Agentic Swarm Orchestration, Vector database Architecture, RAG Data Pipeline Design.
+> **Çıktı:** Birbirinden bağımsız AI çıktılarını, hata yapmayan karmaşık bir sistem olarak koordine etme yeteneği.
 
 ### 🔴 DOKTORA: Tekillik ve Optimizasyon (The Singularity)
-> **Hedef:** Kendi kendini yöneten, kendi hatalarından öğrenen ve fiziksel dünyaya etki eden otonom yapılar inşa etmek.
-Sürecin zirvesinde, "Self-Healing" kod yapıları, AI güvenlik protokolleri (Red Teaming) ve "Token Economy" (Yazılım maliyetinin token verimliliğiyle yönetimi) üzerine uzmanlaşılır.
-
-**Mezuniyet Koşulu:** `02-teknik-mufredat/PHASE_08_SINGULARITY` safhasındaki bitirme projesi, "Sektörel Liyakat Kurulu" (Katkıcılar) tarafından onaylanmalıdır. Mezun olan aday, global ölçekte **"PAISE Certified System Architect"** ünvanını taşımaya hak kazanır.
+> **Dersler:** AI Security & Red Teaming, Token Economy Analytics, Self-Healing System Design.
+> **Çıktı:** Kendi kendini iyileştiren, otonom kararlar verebilen ve küresel ölçekte etki yaratan sistemlerin baş mimarı.
 
 ---
 
-## 🛡️ 4. AKADEMİK DOKTRİNLER (ACADEMIC CODES)
+## 🔬 4. UYGULAMALI LABORATUVAR OTURUMLARI (LAB SESSIONS)
 
-> [!CAUTION]
-> ### ⚔️ DİSİPLİN 01: LİYAKAT VE ŞEFFAFLIK (MERIT OVER TITLES)
-> PAISE Academy içinde yaş, ünvan veya geçmiş başarılar koltuk sağlamaz. Burada sadece "kimin PR'ı daha temiz?", "kimin mimarisi daha ölçeklenebilir?" ve "kim problemi daha iyi parçalara böldü?" sorularına verilen teknik yanıtlar konuşulur. Egonuzu dekandaki girişte bırakın.
+Teori, pratikle çarpışmadığı sürece sadece gürültüdür. İşte Akademimizdeki bazı örnek laboratuvar oturumları:
+
+> [!TIP]
+> ### 🧪 LAB 01: Atomik Parçalama (Decomposition)
+> **Senaryo:** Müşteri, "Sesli komutla çalışan, gerçek zamanlı bir lojistik yönetim sistemi" istiyor.
+> **Görev:** Bu devasa isteği, AI ajanlarının (LLM) hata yapmadan yazabileceği 50 atomik teknik task'a böl.
+> **Başarı Kriteri:** Her task'ın tek bir "Prompt" ile üretilebilir olması.
 
 > [!IMPORTANT]
-> ### 🤖 DİSİPLİN 02: HİBRİT ÇALIŞMA ZORUNLULUĞU (THE SYMBIOSIS)
-> Yapay zekayı bir "oyuncak" veya "tehdit" olarak görenler bu akademide yer bulamaz. AI, sizin dış beyninizdir. Onu kullanmayı reddetmek, bir savaşa kılıçsız girmek gibidir. Bir PAISE öğrencisi, en az 3 farklı LLM modelini (Claude, GPT, Local) aynı anda yönetebilecek kapasitede olmalıdır.
+> ### 🧪 LAB 02: Ajan Orkestrasyonu (Orchestration)
+> **Senaryo:** Bir ajan kod yazıyor, diğeri test ediyor, üçüncüsü güvenlik taraması yapıyor.
+> **Görev:** Bu 3 ajan arasında veri alışverişini sağlayacak bir "Orchestrator" tasarla.
+> **Başarı Kriteri:** İnsan müdahalesi olmadan kodun üretimden teste, testten onay katmanına akması.
 
 ---
 
-## 💻 5. SAVAŞ İSTASYONU (RESEARCH LABS)
+## 🏛️ 5. MİMARİ BLUEPRINTLER (BLUEPRINT ARCHIVE)
 
-PAISE laboratuvarlarında çalışmak için gerekli olan "minimum elit" teknoloji yığını aşağıda tanımlanmıştır. Bu araçlar, post-AI dünyasında hızınızı 10 katına çıkaracak hibrit silahlardır:
+PAISE Mimarlığının standart tasarım desenleri:
 
-| KATEGORİ | STANDART KONFİGÜRASYON | NEDEN BU ARAÇ? |
-|:---|:---|:---|
-| **Laboratuvar (OS)** | **Linux / WSL2** | Kernel seviyesinde müdahale, yüksek paket hızı ve terminal özgürlüğü için tek seçenek. |
-| **Enstrüman (IDE)** | **Cursor / Windsurf** | Statik editorler öldü. AI ile doğrudan (chat, composer) konuşabilen bir IDE zorunludur. |
-| **Korteks (LLM)** | **Claude 3.5 Sonnet / o1** | Karmaşık mimari analizlerde halüsinasyon oranı en düşük, "problem çözme" kapasitesi en yüksek modeller. |
-| **Komuta (Shell)** | **Warp / Oh-My-Zsh** | AI entegrasyonu, workflow paylaşımı ve komut geçmişi analitiğiyle hızınızı maksimize eder. |
-
----
-
-## 📡 6. AKADEMİK İLERLEME AKIŞI (STUDENT JOURNEY)
-
+### 🔄 Agentic Feedback Loop (Ajanlı Geri Bildirim Döngüsü)
 ```mermaid
-graph TD
-    A[Giriş: Kayıt ve Ön Koşul Kontrolü] --> B[Katman 01: Zihinsel Dönüşüm & Felsefe]
-    B --> C{Teknik Filtre: Phase 01-04}
-    C -->|Eksik Bilgi| B
-    C -->|Başarılı| D[Katman 02: Mimari & Ajan Yönetimi]
-    D --> E[Simülasyon: Vaka Analizleri & Kriz Yönetimi]
-    E --> F[Finaller: PHASE_08_SINGULARITY Projesi]
-    F --> G((🎓 PAISE MEZUNİYETİ))
-    style G fill:#00FFA3,stroke:#333,stroke-width:4px,color:#000
-    style F fill:#blueviolet,stroke:#333,stroke-width:2px,color:#fff
+graph LR
+    A[Mimar] -->|Prompt| B(AI Coder)
+    B -->|Kod| C{AI Critic/Linter}
+    C -->|Hata/Düzeltme| B
+    C -->|Onay| D[Production Ready Code]
+    style B fill:#f9f,stroke:#333
+    style C fill:#FFBD00,stroke:#333
 ```
 
 ---
 
-## 🤝 7. AKADEMİK KURULA KATILIM (FACULTY ADMISSIONS)
+## 💻 6. SAVAŞ İSTASYONU (RESEARCH LABS)
 
-PAISE Academy, otoritesini tek bir kişiden değil, kolektif akıldan (The Swarm) alır. Eğer seçtiğimiz dökümanlarda bir hata bulduysan, yeni bir modül eklemek istiyorsan veya vaka analizi merkezine yeni bir kriz senaryosu sunmak istiyorsan kapımız açık:
-- **Müfredata Katkı:** `02-teknik-mufredat` klasöründeki her dosya senin revizyonuna açıktır.
-- **Mentorluk:** Gelen PR'ları inceleyen bir "AI-Reviewer" operatörü olarak topluluğa liyakat kazandırabilirsin.
+Yapay zeka orkestrasyonu için optimize edilmiş önerilen elit çalışma ortamı:
+
+| KATEGORİ | STANDART | NEDEN? |
+|:---|:---|:---|
+| **OS** | **Linux / WSL2** | Kernel seviyesinde kontrol ve terminal hızı için. |
+| **IDE** | **Cursor / Windsurf** | AI-Native kodlama ve derin bağlam (context) yönetimi için. |
+| **CONSOLE** | **Warp / Oh-My-Zsh** | AI entegrasyonu ve komut geçmişi analitiğiyle hızlanmak için. |
+| **COMM** | **Discord / GitHub** | Kolektif akıl ve sürü zekasıyla (Swarm) senkronize olmak için. |
+
+---
+
+## 🛡️ 7. AKADEMİK DOKTRİN (THE CODES)
+
+- **KURAL 01:** Otorite kimse değildir; liyakat her şeydir.
+- **KURAL 02:** Adaptasyon ya da ölüm; eski teknolojiye saplanıp kalanlar elenir.
+- **KURAL 03:** AI senin kölen değil, partnerindir. Onu yönetmeyi öğrenemezsen, o seni yönetir.
 
 ---
 
 <div align="center">
 
-**"Akademi binalardan değil, aynı vizyona bakan zihinlerden ibarettir."**  
+**"Mimari bir kaderdir, dökümantasyon ise bir pusula. Kaleyi birlikte inşa ediyoruz."**  
 **[Bahattin Yunus Çetin](https://github.com/bahattinyunus)**  
-*Founder & Multi-Disciplinary Systems Designer | AI Integration Expert*
+*Founder & Multi-Disciplinary Systems Designer | AI Integration Architect*
 
-`ACADEMY_STATUS: FULL_OPERATIONAL`  
-`LATEST_UPDATE: 2026_SINGULARITY_V6`
+`STATUS: ACADEMY_SESSION_V7_SUPREME`  
+`UPTIME: ALWAYS_EVOLVING`  
+`BY: THE ARCHITECT & THE SWARM`
 
 </div>
