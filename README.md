@@ -6,9 +6,9 @@
 -->
 <div align="center">
 
-![KTÜ Post-AI Curriculum Banner](./assets/img/banner.png)
+![KTÜ Post-AI SWE Banner](./assets/img/banner.png)
 
-# 🌌 POST-AI SOFTWARE ENGINEERING CURRICULUM
+# 🌌 POST-AI SOFTWARE ENGINEERING (SWE) CURRICULUM
 ## ⛩️ "Statik Müfredat Öldü. Yaşasın Kolektif Evrim." ⛩️
 
 [![Tier](https://img.shields.io/badge/TYPE-LIVING__ORGANISM-cyan?style=for-the-badge&logo=react)](./4_SISTEM/OZET.md)
