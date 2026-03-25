@@ -5,7 +5,7 @@ def paise_decomposer(task_description):
     PAISE Decomposer: Karmaşık görevleri atomik parçalara ayırma simülasyonu.
     Gelecekte LLM API entegrasyonu ile tam otonom çalışacaktır.
     """
-    print("🏛️ PAISE INSTITUTE: TASK DECOMPOSITION ENGINE")
+    print("[PAISE INSTITUTE]: TASK DECOMPOSITION ENGINE")
     print("-" * 40)
     print(f"ANALYZING TASK: {task_description}")
     

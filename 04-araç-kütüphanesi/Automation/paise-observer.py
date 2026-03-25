@@ -6,7 +6,7 @@ def paise_observer(log_dir="./logs"):
     PAISE Observer: Agentic feedback loopları ve log akışını izleme simülasyonu.
     Otonom sistemlerin sağlığını ve liyakatini (performance) denetler.
     """
-    print("📡 PAISE INSTITUTE: SYSTEM OBSERVER ACTIVE")
+    print("[PAISE INSTITUTE]: SYSTEM OBSERVER ACTIVE")
     print("-" * 40)
     print(f"MONITORING DIRECTORY: {log_dir}")
     
