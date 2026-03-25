@@ -10,7 +10,7 @@ def check_repo_health(repo_path):
     issues_found = 0
     
     # Check for core directories
-    core_dirs = ["01-felsefe-ve-zihniyet", "02-teknik-mufredat", "03-vaka-analizleri", "04-araç-kütüphanesi"]
+    core_dirs = ["01-felsefe-ve-zihniyet", "02-teknik-mufredat", "03-vaka-analizleri", "04-araç-kütüphanesi", "99-sistem-ve-arsiv"]
     for d in core_dirs:
         full_path = os.path.join(repo_path, d)
         if not os.path.exists(full_path):
