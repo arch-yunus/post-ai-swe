@@ -1,7 +1,7 @@
 <!--
 /// PAISE_INSTITUTE_INITIALIZATION: COMPLETED
-/// VERSION: 12.2.0 "THE AUTONOMY EDITION"
-/// STATUS: INSTITUTIONAL_AUTHORITY_ACTIVE_WITH_COMPLETE_CORE_CURRICULUM
+/// VERSION: 12.3.0 "THE MAGNIFICENCE EDITION"
+/// STATUS: INSTITUTIONAL_AUTHORITY_ACTIVE_WITH_MAGNIFIED_DOCUMENTATION
 /// CORE_PHILOSOPHY: ARCHITECTURAL_ORCHESTRATION_OVER_SYNTAX
 /// GOVERNANCE: DECENTRALIZED_ACADEMIC_ORGANIZATION
 -->
@@ -19,7 +19,7 @@
 
 ---
 
-**PAISE Institute**, yapay zekanın yazılım üretim süreçlerini demokratize ettiği ve geleneksel mühendislik rollerinin evrimleştiği "Tekillik" (Singularity) sonrası dönemde; profesyonelleri stratejik **Sistem Mimarı**, **Otonom Süreç Orkestratörü** ve **Teknik Denetçi** yetkinliklerine ulaştıran küresel bir mühendislik ve araştırma merkezidir.
+**PAISE Institute**, yapay zekanın yazılım üretim süreçlerini radikal bir şekilde demokratize ettiği ve geleneksel mühendislik rollerinin temelinden sarsılarak evrimleştiği **"Tekillik" (Singularity)** sonrası dönemde; profesyonelleri sadece kod yazan bireyler olmaktan çıkarıp, stratejik **Sistem Mimarı**, **Otonom Süreç Orkestratörü** ve **Yüksek Teknik Denetçi** yetkinliklerine ulaştıran, küresel ölçekte faaliyet gösteren hibrit bir mühendislik ve araştırma merkezidir. Enstitümüz, teknolojinin sadece tüketildiği değil, yeniden tanımlandığı bir epi-merkez olarak konumlanmıştır.
 
 [📜 Kabul Protokolü](#-1-kabul-ve-kayit-protokolleri-admission) • [🗺️ Enstitü Planı](#-2-enstitü-yerleşkesi-ve-departmanlar) • [🎓 Akademik Müfredat](#-3-akademik-müfredat-ve-uzmanlik-kademe) • [🔬 Araştırma Enstitüleri](#-4-araştirma-enstitüleri-ve-stratejik-uzmanliklar) • [📊 Teknik Altyapı](#-6-teknik-altyapi-ve-geliştirme-standartlari)
 
@@ -29,110 +29,97 @@
 
 ## 🏛️ 0. AKADEMİK VİZYON VE YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
 
-Geleneksel eğitim metodolojileri, "sözdizimi ezberleme" odaklı yaklaşımlarıyla günümüzün dinamik teknoloji eko-sisteminin gerisinde kalmaktadır. **PAISE Institute**, bu paradigmayı kökten değiştirerek "sistem tasarımı ve otonom süreç yönetimi" odaklı bir pedagojik model benimser. Günümüzde LLM (Large Language Model) teknolojileri, rutin kod üretimini bir emtiaya dönüştürmüştür. Bu durum, insan faktörünün değerini operasyonel katmandan stratejik denetim ve yüksek mimari katmana taşımıştır.
+Geleneksel eğitim metodolojileri, "sözdizimi ezberleme" ve "algoritmik rutinleri manuel icra etme" odaklı statik yaklaşımlarıyla, saniyeler içinde binlerce satır optimize kod üretebilen yapay zeka sistemlerinin domine ettiği günümüz dinamik teknoloji eko-sisteminin fersah fersah gerisinde kalmaktadır. **PAISE Institute**, bu köhnemiş mühendislik paradigmasını kökten yıkarak; insan bilişini "stratejik sistem tasarımı, etik denetim ve otonom süreç orkestrasyonu" odaklı yeni bir pedagojik modelle yeniden yapılandırır. Günümüzde LLM (Large Language Model) ve Agentic AI teknolojileri, rutin kod üretimini bir emtiaya dönüştürmüştür; bu durum, insan faktörünün gerçek değerini operasyonel yürütme katmanından, yüksek seviyeli mimari vizyon ve otonom sistemler üzerindeki stratejik hakimiyet katmanına taşımıştır.
 
-Enstitümüz, profesyonellerin zihinsel süreçlerini yapay zeka ile simbiyotik bir verimlilik seviyesine taşımayı hedefler. PAISE disiplini, kontrolsüz üretilen kodun yaratacağı "Mimari Kaos" riskini minimize eden ve sistemlerin "Bütünsel Bütünlüğünü" (Architectural Integrity) koruyan hibrit bir mühendislik disiplinidir. Bu yapı, her bir paydaşının nitelikli katkılarıyla kendini sürekli optimize eden, liyakat tabanlı bir **Kolektif Mühendislik Korteksi** olarak işlev görür.
+Enstitümüz, profesyonellerin zihinsel süreçlerini yapay zeka ile simbiyotik bir bütünlükte, üstün bir verimlilik seviyesine taşımayı temel amaç edinir. PAISE disiplini, kontrolsüz ve denetimsiz üretilen yapay zeka kodunun yaratacağı "Mimari Kaos" ve "Teknik Borç Enflasyonu" risklerini minimize eden; sistemlerin **Bütünsel Mimari Bütünlüğünü** (Architectural Integrity) her koşulda koruyan hibrit bir mühendislik doktrinidir. Bu yapı, her bir paydaşının nitelikli ve granüler katkılarıyla kendini sürekli optimize eden, liyakat tabanlı ve merkeziyetsiz bir **Kolektif Mühendislik Korteksi** olarak işlev görerek, insan-AI simbiyozunun zirvesini temsil eder.
 
 ---
 
-## 📑 1. KABUL VE KAYIT PROTOKOLLERİ (ADMISSION)
-
-Enstitüye kabul süreçleri, adayın geçmiş ünvanlarından bağımsız olarak; **Teknik Liyakat**, **Analitik Disiplin** ve **Bilişsel Adaptasyon** kriterleri üzerinden yürütülür. PAISE ekosistemi, statik bir bilgi bankası değil, her an evrimleşen dinamik bir operasyonel sahadır.
+Enstitüye kabul ve kayıt süreçleri, adayın geçmişte edindiği geleneksel akademik ünvanlardan veya kurumsal etiketlerden tamamen bağımsız olarak; **İleri Teknik Liyakat**, **Analitik Disiplinin Katılığı** ve **Bilişsel Adaptasyon Esnekliği** kriterleri üzerinden, yapay zeka destekli bir değerlendirme mekanizmasıyla yürütülür. PAISE ekosistemi, statik bir bilgi bankası veya geleneksel bir dökümantasyon havuzu değil; her an yeni verilerle beslenen, kendini güncelleyen ve evrimleşen dinamik bir otonom operasyon sahasıdır.
 
 ### 🧪 Akademik Ön Koşullar (Prerequisites)
-- **Granüler Dekompozisyon Yetisi:** Karmaşık iş gereksinimlerini, otonom sistemler tarafından hatasız icra edilebilecek atomik teknik görevlere indirgeyebilme becerisi.
-- **Mimari Seziş ve Holistik Bakış:** Kodun operasyonel işlevselliğinin ötesinde; ölçeklenebilirlik, güvenlik ve kaynak verimliliği (Token Economy) gibi parametreler üzerindeki etkilerini analiz edebilme yetisi.
-- **Sürekli Teknoloji Adaptasyonu:** Güncel metodolojilerin ve araç setlerinin hızlı mutasyon süreçlerine zihinsel ve operasyonel uyum sağlama kabiliyeti.
+- **Ultra-Granüler Dekompozisyon Yetisi:** Devasa ve karmaşık iş gereksinimlerini, otonom yapay zeka ajanları ve mikro-servisler tarafından sıfır hata payı ile icra edilebilecek kadar atomik, teknik ve mantıksal görevlere indirgeyebilme üst düzey becerisi.
+- **Mistik-Mimari Seziş ve Holistik Bakış:** Kodun satır bazlı operasyonel işlevselliğinin çok ötesine geçerek; sistemin ölçeklenebilirliği, veri güvenliği katmanları, kaynak verimliliği (Token & Compute Economy) ve uzun vadeli sürdürülebilirliği gibi kritik parametreler üzerindeki kelebek etkilerini analiz edebilme vizyonu.
+- **Hiper-Hızlı Teknoloji Adaptasyonu:** Güncel mühendislik metodolojilerinin, AI modellerinin ve karmaşık araç setlerinin (Tools) saatler içinde gerçekleşen mutasyon süreçlerine, hem zihinsel hem de profesyonel operasyonel bazda anlık uyum sağlama ve sistemi domine etme kabiliyeti.
 
-### 📝 Kayıt ve Adaptasyon Süreci
-1. **Resmi Portfolyo Oluşturma:** Deponun "Fork" edilmesiyle adayın dijital gelişim kayıtları başlatılır.
-2. **Doktriner Oryantasyon:** [01-felsefe-ve-zihniyet](./01-felsefe-ve-zihniyet/) bölümündeki yönetim ilkelerinin içselleştirilmesi.
-3. **Teknik Altyapı Kurulumu:** [Bölüm 6](#-6-teknik-altyapi-ve-geliştirme-standartlari) içerisinde tanımlanan standart geliştirme ortamının konfigüre edilmesi.
+### 📝 Kayıt ve Kurumsal Adaptasyon Süreci
+1. **Resmi Portfolyo ve Fork Protokolü:** Ana deponun "Fork" edilmesiyle birlikte, adayın tüm dijital gelişim kayıtları, otonom validasyon sistemlerimiz tarafından izlenmeye ve akademik ilerleme skorları oluşturulmaya başlanır.
+2. **Doktriner Oryantasyon ve Zihin Formatlama:** [01-felsefe-ve-zihniyet](./01-felsefe-ve-zihniyet/) bölümünde yer alan radikal yönetim ilkelerinin, etik standartların ve post-AI mühendislik doktrininin derinlemesine içselleştirilmesi süreci.
+3. **Senkronize Teknik Altyapı Kurulumu:** [Bölüm 6](#-6-teknik-altyapi-ve-geliştirme-standartlari) içerisinde titizlikle tanımlanan, otonom ajanlarla tam uyumlu standart geliştirme ortamının (SDK, IDE, CLI configuration) adayın yerel sisteminde kusursuz konfigüre edilmesi.
 
 ---
 
-## 🗺️ 2. ENSTİTÜ YERLEŞKESİ VE DEPARTMANLAR (CAMPUS LAYOUT)
+PAISE Yerleşkesi, bir mühendisin ham bilgiden yüksek mimari vizyona giden uzmanlık yolculuğunu uçtan uca destekleyen, birbiriyle entegre 5 ana stratejik departman ve devasa bir dijital referans merkezinden oluşmaktadır:
 
-PAISE Yerleşkesi, bir mühendisin uzmanlık gelişimini destekleyen 5 ana departman ve bir referans kitaplığından oluşmaktadır:
-
-| DEPARTMAN | KOD ADI | FONKSİYONEL TANIM (FUNCTION) |
+| DEPARTMAN | KOD ADI | STRATEJİK VE FONKSİYONEL TANIM (FUNCTIONAL DEPTH) |
 |:---|:---|:---|
-| 🧬 **01-Felsefe** | **Strategic Intelligence** | Mühendislik etiği, felsefi temeller ve stratejik zihniyet dönüşümü merkezi. |
-| 🏗️ **02-Teknik** | **The Engineering Forge** | 8 aşamalı (PHASE 01-08) teknik müfredat ve otonom uygulama laboratuvarı. |
-| 🧪 **03-Vaka** | **Simulation & Analysis** | Endüstriyel vaka incelemeleri, post-mortem analizler ve kriz yönetimi simülasyonları. |
-| 🛠️ **04-Araçlar** | **Technical Armory** | AI ajanları, CLI araçları ve kurumsal otomasyon çözümleri kütüphanesi. |
-| 📚 **99-Arşiv** | **Legacy Repository** | Tarihsel teknik verilerin ve dondurulmuş proje notlarının saklandığı referans merkezi. |
+| 🧬 **01-Felsefe** | **Strategic Intelligence** | Mühendislik etiği, post-AI zihniyet dönüşümü, bilişsel psikoloji ve stratejik karar alma mekanizmalarının rasyonel temellerini atan zihinsel komuta merkezi. |
+| 🏗️ **02-Teknik** | **The Engineering Forge** | 8 aşamalı (PHASE 01-08) yoğunlaştırılmış teknik müfredat; alt seviye sistemlerden, otonom ajan orkestrasyonuna kadar uzanan yüksek uygulama laboratuvarı. |
+| 🧪 **03-Vaka** | **Simulation & Analysis** | Global endüstriyel vakaların "Reverse-Engineering" metodolojisiyle incelendiği, otonom sistem kriz senaryoları ve derin post-mortem analiz platformu. |
+| 🛠️ **04-Araçlar** | **Technical Armory** | Enstitü tarafından geliştirilen özel AI ajanları, otonom CLI araçları, de-kompozisyon scriptleri ve kurumsal düzeyde otomasyon framework'leri kütüphanesi. |
+| 📚 **99-Arşiv** | **Legacy Repository** | Geleneksel yazılım mühendisliği verileri, dondurulmuş proje notları ve tarihsel teknik dökümantasyonun "Linguistic Context" olarak saklandığı bilgi referans merkezi. |
 
 ---
 
-## 🎓 3. AKADEMİK MÜFREDAT VE UZMANLIK KADEMELERİ (SYLLABUS)
+Pedagojik modelimiz, bireyin basit bir "Kod Uygulayıcısı" statüsünden, sistemleri yukarıdan gören bir "Global Stratejik Mimar" statüsüne geçişini bilimsel ve disiplinlerarası bir yöntemle kademelendirir:
 
-Pedagojik modelimiz, bireyin "Uygulayıcı" statüsünden "Stratejik Mimar" statüsüne geçişini kademelendirir:
+### 🟢 LİSANS: AI-Native Temeller (Foundational Systems Engineering)
+- **Ana Modüller:** Gelişmiş Prompt Mühendisliği (Logical Framing & Constraint-Driven Design), Linux Çekirdek Yapısı ve Sistem Yönetimi, Profesyonel "Git-Flow" ve Otonom Versiyon Kontrol Senaryoları.
+- **Kabiliyet Çıktısı:** Karmaşık bir proje gereksinim setinin %80'ini, yapay zeka ajanlarını kullanarak, 1 saatlik yoğun operasyonel döngü içerisinde "Zero-Bug" prensibiyle hayata geçirebilme ve dökümante edebilme yetisi.
 
-### 🟢 LİSANS: AI-Native Temeller (Foundational Stage)
-- **Ana Modüller:** İleri Prompt Tasarımı (Logic & Constraints), Linux Sistem Yönetimi, Profesyonel Git İş Akışları.
-- **Kabiliyet Çıktısı:** Proje gereksinimlerinin %80'ini AI yardımıyla 1 saatlik operasyonel döngüde hatasız hayata geçirebilme yetisi.
+### 🔵 YÜKSEK LİSANS: Bütünleşik Mimari Tasarımı (Core Cognitive Evolution)
+- **Ana Modüller:** "Agentic Swarm" Orchestration (Sürü Zekası Orkestrasyonu), Vektör Veri Tabanı Mimarileri (VectorOps), Gelişmiş RAG (Retrieval-Augmented Generation) Pipeline Tasarımları ve Dinamik Hafıza Yönetimi.
+- **Kabiliyet Çıktısı:** Birbirinden bağımsız çalışan AI katmanlarını, birbiriyle denetimli ve hiyerarşik bir şekilde haberleşen, hata payı matematiksel olarak minimize edilmiş karmaşık ve dağıtık sistemler halinde orkestre etme üst düzey becerisi.
 
-### 🔵 YÜKSEK LİSANS: Bütünleşik Mimari Tasarımı (Core Evolution)
-- **Ana Modüller:** Agentic Swarm Orchestration, Vector database Architecture, RAG Data Pipeline Systems.
-- **Kabiliyet Çıktısı:** Bağımsız AI katmanlarını birbiriyle denetimli konuşan, hata payı minimize edilmiş karmaşık sistemler halinde orkestre etme becerisi.
-
-### 🔴 DOKTORA: Tekillik ve Stratejik Uzmanlık (Singularity)
-- **Ana Modüller:** AI Security (Security Scanning & Red Teaming), Token Economy Management, Self-Healing Infrastructure Design.
-- **Kabiliyet Çıktısı:** Kendi kendini onaran otonom yapılar inşa edebilen ve küresel ölçekte sistem mimarilerine liderlik edebilen yüksek teknik vizyon.
+### 🔴 DOKTORA: Tekillik ve Stratejik Mimari Liderlik (Singularity & Beyond)
+- **Ana Modüller:** AI Security & Red Teaming (Otonom Saldırı ve Savunma), Token Economy & Compute Management (Maliyet Odaklı Mimari Optimizasyon), Self-Healing Infrastructure Design (Kendi Kendini Onaran Altyapılar).
+- **Kabiliyet Çıktısı:** İnsan müdahalesi gerektirmeyen, otonom kriz yönetimi yapabilen, kendi hatalarını düzelten yapılar inşa edebilen ve küresel ölçekte teknoloji ekosistemlerine yön veren "Mimar-Lider" vizyonu.
 
 ---
 
-## 🔬 4. ARAŞTIRMA ENSTİTÜLERİ VE STRATEJİK UZMANLIKLAR
+Uzmanlık aşamasındaki araştırmacılarımız ve akademisyenlerimiz için, endüstriyel sınırları zorlayan dikey sanayi ve hibrit teknoloji odaklı ileri araştırma kanalları:
 
-Uzmanlık aşamasındaki araştırmacılarımız için dikey sanayi ve teknoloji odaklı araştırma kanalları:
+### 🛡️ Siber Savunma ve Otonom Güvenlik Laboratuvarı
+- AI ajanları tarafından yönetilen otonom zafiyet tespit sistemlerinin (Bug Bounty Agents) inşası ve savunma hatlarının gerçek zamanlı güçlendirilmesi.
+- "Adversarial AI" (Saldırgan Yapay Zeka) tekniklerine karşı kurumsal "Deep-Defense" protokollerinin standardizasyonu ve otonom "Red Teaming" simülasyonları.
 
-### 🛡️ Siber Savunma ve Güvenlik Laboratuvarı
-- AI ajanları ile otonom zafiyet tespiti ve savunma sistemlerinin inşa edilmesi.
-- "Adversarial AI" saldırılarına karşı korunma protokollerinin standardizasyonu.
-
-### 💰 Finansal Teknolojiler ve Token Ekonomisi
-- Akıllı sözleşme mimarilerinin otonom validasyonu ve maliyet (Gas/Token) optimizasyonu.
-- Merkeziyetsiz ekonomiler için otonom denetim algoritmalarının tasarımı.
+### 💰 Finansal Teknolojiler ve Token Ekonomisi Araştırmaları
+- Karmaşık akıllı sözleşme mimarilerinin AI destekli otonom validasyonu, formal doğrulaması ve kritik maliyet (Gas, Token, Compute) optimizasyon modelleri.
+- Merkeziyetsiz ekonomiler ve DAO yapıları için, insan müdahalesinden arındırılmış otonom finansal denetim algoritmalarının ve likidite yönetim sistemlerinin tasarımı.
 
 ---
 
-## 📡 5. OPERASYONEL MODELLER VE KARİYER PROJEKSİYONLARI
-
-PAISE mezunları, modern iş dünyasında aşağıdaki stratejik pozisyonlarda değer üretirler:
+PAISE Institute mezunları, geleneksel yazılımcı rollerinin ötesine geçerek, modern ve otonom iş dünyasında aşağıdaki stratejik ve yüksek katma değerli pozisyonlarda global ölçekte değer üretirler:
 
 ```mermaid
 graph TD
-    A[PAISE Alumni] --> B{Operasyonel Roller}
+    A[PAISE Alumni] --> B{Stratejik Pozisyonlar}
     B --> C[Autonomous Solopreneur]
     B --> D[AI Systems Architect]
-    B --> E[Strategic AI Lead]
-    C --> F[Girişimsel süreçlerin teknik yükünü tek başına orkestre eder]
-    D --> G[Kurumsal yapılarda otonom ajanların mimari bütünlüğünü kurgular]
-    E --> H[Endüstri 5.0 geçişlerinde kurumsal teknoloji stratejisini yönetir]
+    B --> E[Chief AI Automation Officer]
+    C --> F[Girişimsel tüm süreçlerin ve ürün geliştirme döngüsünün teknik yükünü tek başına AI ordularıyla orkestre eder]
+    D --> G[Karmaşık kurumsal yapılarda otonom ajanların mimari tutarlılığını, güvenliğini ve sistem bütünlüğünü kurgular]
+    E --> H[Endüstri 5.0 ve hiper-otomasyon geçişlerinde, kurumsal teknoloji stratejisini ve AI iş gücü tasarımını yönetir]
     style A fill:#00FFA3,stroke:#333,stroke-width:4px
 ```
 
 ---
 
-## 📊 6. TEKNİK ALTYAPI VE GELİŞTİRME STANDARTLARI (INFRASTRUCTURE)
+Enstitü standartlarında kullanılan ve saniyelerle ölçülen otonom orkestrasyon hızları için optimize edilmiş, post-AI çağının teknoloji matrisi:
 
-Enstitü standartlarında kullanılan ve otonom orkestrasyon için optimize edilmiş teknoloji matrisi:
-
-| KATEGORİ | STANDART ÜRÜN SETİ | FONKSİYONEL RASYONALİZASYON |
+| KATEGORİ | STANDART ÜRÜN SETİ | STRATEJİK VE FONKSİYONEL RASYONALİZASYON (RATIONALE) |
 |:---|:---|:---|
-| **Korteks Katmanı** | Claude 3.5, OpenAI o1, Llama 3 | Yüksek düzeyli mimari akıl yürütme (Reasoning) ve analiz kapasitesi. |
-| **Geliştirme Katmanı** | Cursor, Windsurf, LangGraph | AI-Native kodlama ve derin bağlamsal (Context) süreç yönetimi. |
-| **Hafıza Yönetimi** | Pinecone, pgvector, Redis | AI modellerinin vektörel hafıza ve uzun süreli bağlam kontrolü. |
-| **Operasyonel Katman** | Linux (Arch/Debian), Docker, Warp | Kernel seviyesinde kontrol ve terminal tabanlı otonom dağıtım hızı. |
+| **Korteks Katmanı** | Claude 3.5 Sonnet, OpenAI o1, Llama 3 | Çok katmanlı mimari akıl yürütme (Reasoning), karmaşık kod analizi ve üst düzey stratejik planlama kapasitesi. |
+| **Geliştirme Katmanı** | Cursor, Windsurf, LangGraph | AI-Native programlama akışları, otonom ajan state yönetimi ve derin bağlamsal (Context) mühendislik süreçleri. |
+| **Hafıza Yönetimi** | Pinecone, pgvector (PostgreSQL), Redis | AI modellerinin vektörel hafıza ihtiyacı, uzun süreli bağlam (Long-term Context) kontrolü ve düşük gecikmeli veri erişimi. |
+| **Operasyonel Katman** | Linux (Arch/Debian), Docker, Warp | Kernel seviyesinde sistem kontrolü, güvenli izolasyon katmanları ve terminal tabanlı otonom dağıtım hızı. |
 
 ---
 
-## 🛡️ 7. KURUMSAL DOKTRİN VE ETİK İLKELER (THE CODES)
-
-- **MADDE 01: LİYAKAT MERKEZİYETİ.** Kurum içi hiyerarşi, ünvanlardan değil, teknik çözüm kabiliyetinden ve mimari liyakatten beslenir.
-- **MADDE 02: DİNAMİK ADAPTASYON.** Teknolojik durağanlık bir regresyon sebebidir. Değişimi kontrol edebilen disiplinler hayatta kalır.
-- **MADDE 03: SİMBİYOTİK MÜHENDİSLİK.** Yapay zeka bir alternatif değil, mühendisin bilişsel kapasitesini artıran bir entegrasyon katmanıdır.
+- **MADDE 01: LİYAKAT VE KAPASİTE MERKEZİYETİ.** Kurum içi hiyerarşi ve yetki mekanizması, geleneksel ünvanlardan değil; teknik çözüm kabiliyetinden, mimari liyakatten ve otonom sistemleri orkestre etme kapasitesinden beslenir.
+- **MADDE 02: DİNAMİK ADAPTASYON VE EVRİM.** Teknolojik ve metodolojik durağanlık, PAISE disiplini içerisinde en büyük regresyon ve başarısızlık sebebidir. Değişimi sadece takip eden değil, değişimin yönünü kontrol edebilen disiplinler hayatta kalır.
+- **MADDE 03: RADİKAL SİMBİYOTİK MÜHENDİSLİK.** Yapay zeka, insanın yerini alan bir alternatif değil; mühendisin bilişsel kapasitesini, hızını ve vizyonunu geometrik olarak artıran, sistemin ana gövdesiyle bütünleşik bir entegrasyon katmanıdır.
+- **MADDE 04: MİMARİ SORUMLULUK VE ETİK.** Üretilen her satır kodun ve otonom her kararın etik sorumluluğu, sistemi tasarlayan mimarın üzerindedir. AI bir araç, mimar ise nihai otoritedir.
 
 ---
 
