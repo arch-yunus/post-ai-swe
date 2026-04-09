@@ -13,6 +13,7 @@
 # 🏛️ PAISE INSTITUTE: The School of Post-AI Engineering
 ### "Mimari bir vizyondur; kod ise bu vizyonun otonom bir yansımasıdır."
 
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/post-ai-swe)
 [![Admission Status](https://img.shields.io/badge/ADMISSIONS-OPEN-00FFA3?style=for-the-badge&logo=googlescholar)](./CONTRIBUTING.md)
 [![Academic Foundation](https://img.shields.io/badge/FOUNDATION-COLLECTIVE_ARCHITECTS-blueviolet?style=for-the-badge)](./01-felsefe-ve-zihniyet/)
 [![Institutional Impact](https://img.shields.io/badge/ACCREDIATION-GLOBAL_SINGULARITY_COMPLIANT-red?style=for-the-badge)](./LICENSE)
